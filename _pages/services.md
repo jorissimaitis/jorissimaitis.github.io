@@ -3,7 +3,7 @@ layout: default
 permalink: /services/
 title: Services
 nav: true
-nav_order: 2  # Adjust this to place the page in the desired order
+nav_order: 1  # Adjust this to place the page in the desired order
 ---
 
 

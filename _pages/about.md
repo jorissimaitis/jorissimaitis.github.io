@@ -42,7 +42,7 @@ latest_posts: false
 /* Styling the boxes */
 .expertise-boxes {
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;  /* Stack the boxes vertically */
   gap: 20px;  /* space between the boxes */
   margin-top: 30px; /* space from the paragraph */
 }
@@ -52,7 +52,6 @@ latest_posts: false
   padding: 20px;
   border-radius: 8px;
   text-align: center;
-  flex: 1;  /* make boxes expand equally */
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease;  /* smooth transition for hover effect */
 }
@@ -77,10 +76,9 @@ latest_posts: false
 }
 
 @media (max-width: 768px) {
-  /* Stack the boxes on mobile */
+  /* Optional: For mobile, you can ensure they remain stacked */
   .expertise-boxes {
-    display: grid;
-    grid-template-columns: 1fr;  /* make it one column on small screens */
+    display: block;  /* Stack normally on mobile, in case it's not already */
   }
 }
 </style>

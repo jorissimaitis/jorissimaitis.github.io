@@ -41,12 +41,21 @@ latest_posts: false
 <!-- Scrolling logos container -->
 <div class="scrolling-logos">
   <div class="logo-container">
-    <img src="logo1.png" alt="Logo 1" />
-    <img src="logo2.png" alt="Logo 2" />
-    <img src="logo3.png" alt="Logo 3" />
-    <img src="logo4.png" alt="Logo 4" />
-    <img src="logo5.png" alt="Logo 5" />
-    <img src="logo6.png" alt="Logo 6" />
+    <img src="logo_minviro.png" alt="Minviro" />
+    <img src="logo_anthesis.png" alt="Anthesis" />
+    <img src="logo_eightversa.png" alt="Eight Versa" />
+    <img src="logo_ccc.png" alt="CCC" />
+    <img src="logo_bmi.png" alt="BMI" />
+    <img src="logo_ucl.png" alt="UCL" />
+    <img src="logo_bath.png" alt="Bath" />
+    <img src="logo_emf.png" alt="EMF" />
+    <img src="logo_nursem.png" alt="Nursem" />
+    <img src="logo_relondon.png" alt="ReLondon" />
+    <img src="logo_earthly.png" alt="Earthly" />
+    <img src="logo_scholartribe.png" alt="ST" />
+    <img src="logo_razbio.png" alt="Razbio" />
+    <img src="logo_gc.png" alt="GW" />
+    <img src="logo_banes.png" alt="Banes" />
   </div>
 </div>
 

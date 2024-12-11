@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong class="custom-subtitle">LCA Consultant - PhD, PIEMA, REnvP</strong> #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <strong class="custom-subtitle">Life Cycle Assessment Consultant - PhD, PIEMA, REnvP</strong> #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right

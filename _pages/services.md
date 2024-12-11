@@ -1,8 +1,11 @@
 ---
 layout: default
-title: services
 permalink: /services/
+title: Services
+nav: true
+nav_order: 2  # Adjust this to place the page in the desired order
 ---
+
 
 <h2>Life Cycle Assessment</h2>
 <p>

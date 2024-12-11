@@ -75,7 +75,7 @@ latest_posts: false
 }
 
 .expertise-boxes .box {
-  background-color: #F7F1E1;  /* light gray background */
+  background-color: #e0e0e0;  /* light gray background */
   padding: 15px;
   border-radius: 8px;
   text-align: left;
@@ -93,7 +93,7 @@ latest_posts: false
 }
 
 .expertise-boxes .box:hover {
-  background-color: #e0e0e0;  /* change background on hover */
+  background-color: #F7F1E1;  /* change background on hover */ 
   box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);  /* enhance shadow on hover */
 }
 

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: <strong class="custom-subtitle">Life Cycle Assessment Consultant - PhD, PIEMA, REnvP</strong> #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 

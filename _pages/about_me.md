@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /projects/
-title: Projects
+permalink: /about/
+title: About
 nav: true
-nav_order: 2  # Adjust this to place the page in the desired order
+nav_order: 3  # Adjust this to place the page in the desired order
 ---
 
 

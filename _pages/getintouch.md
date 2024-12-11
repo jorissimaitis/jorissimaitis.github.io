@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /projects/
-title: Projects
+permalink: /getintouch/
+title: Get in touch
 nav: true
-nav_order: 2  # Adjust this to place the page in the desired order
+nav_order: 4  # Adjust this to place the page in the desired order
 ---
 
 

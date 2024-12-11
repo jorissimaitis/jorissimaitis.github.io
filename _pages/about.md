@@ -108,9 +108,10 @@ latest_posts: false
 }
 
 .logo-container img {
-  margin-right: 50px;  /* Space between logos */
-  object-fit: contain;  /* Maintain the aspect ratio */
-  height: auto;   /* Prevent distortion */
+  max-width: 150px; /* Set the maximum width for all logos */
+  max-height: 100px; /* Set the maximum height for all logos */
+  margin-right: 50px; /* Space between logos */
+  object-fit: contain; /* Maintain aspect ratio and ensure logos fit */
 }
 
 /* Keyframes for the scrolling */
@@ -123,3 +124,4 @@ latest_posts: false
   }
 }
 </style>
+

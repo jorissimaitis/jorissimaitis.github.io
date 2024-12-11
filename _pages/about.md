@@ -45,6 +45,7 @@ latest_posts: false
   flex-direction: column;  /* Stack the boxes vertically */
   gap: 15px;  /* space between the boxes */
   margin-top: 20px; /* space from the paragraph */
+  align-items: center;  /* Center the boxes horizontally */
 }
 
 .expertise-boxes .box {
@@ -54,6 +55,8 @@ latest_posts: false
   text-align: center;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease;  /* smooth transition for hover effect */
+  width: 90%;  /* Set a percentage width (or adjust based on desired size) */
+  max-width: 300px;  /* Limit the maximum width of the box */
 }
 
 .expertise-boxes .box a {
@@ -79,6 +82,10 @@ latest_posts: false
   /* Optional: For mobile, you can ensure they remain stacked */
   .expertise-boxes {
     display: block;  /* Stack normally on mobile, in case it's not already */
+  }
+  .expertise-boxes .box {
+    width: 90%;  /* Keep boxes responsive on mobile */
+    max-width: 300px;  /* Maintain max-width on mobile */
   }
 }
 </style>

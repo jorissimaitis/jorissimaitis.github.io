@@ -117,7 +117,7 @@ latest_posts: false
 /* Keyframes for the scrolling */
 @keyframes scroll {
   0% {
-    transform: translateX(100%);  /* Start off-screen */
+    transform: translateX(50%);  /* Start off-screen */
   }
   100% {
     transform: translateX(-100%);  /* End off-screen */

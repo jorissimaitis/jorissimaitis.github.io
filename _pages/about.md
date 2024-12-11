@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: The myth, the legend #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: My ambition is to help realise an environmentally sustainable, socially just, and economically thriving society.  #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My ambition is to help realise an environmentally sustainable, socially just, and economically thriving society. I am a life cycle assessment (LCA) practitioner, providing tailored solutions to measure and minimise the environmental impacts of products and services across their entire life cycle.
+I am a life cycle assessment (LCA) practitioner, providing tailored solutions to measure and minimise the environmental impacts of products and services across their entire life cycle.

@@ -38,6 +38,17 @@ latest_posts: false
   </div>
 </div>
 
+<!-- Scrolling logos container -->
+<div class="scrolling-logos">
+  <div class="logo-container">
+    <img src="logo1.png" alt="Logo 1" />
+    <img src="logo2.png" alt="Logo 2" />
+    <img src="logo3.png" alt="Logo 3" />
+    <img src="logo4.png" alt="Logo 4" />
+    <!-- Add more logos here -->
+  </div>
+</div>
+
 <style>
 /* Styling the subtitle */
 .custom-subtitle {
@@ -83,14 +94,21 @@ latest_posts: false
   font-weight: 400;  /* semi-bold font weight */
 }
 
-@media (max-width: 768px) {
-  /* Optional: For mobile, you can ensure they remain stacked */
-  .expertise-boxes {
-    display: block;  /* Stack normally on mobile, in case it's not already */
-  }
-  .expertise-boxes .box {
-    width: 90%;  /* Keep boxes responsive on mobile */
-    max-width: 300px;  /* Maintain max-width on mobile */
-  }
+/* Styling the scrolling logos */
+.scrolling-logos {
+  width: 100%;
+  overflow: hidden;  /* Hide the overflow */
+  margin-top: 50px;  /* Space from the boxes */
 }
-</style>
+
+.logo-container {
+  display: flex;
+  animation: scroll 15s linear infinite;  /* Scroll animation */
+}
+
+.logo-container img {
+  width: 150px;  /* Adjust logo size */
+  margin-right: 50px;  /* Space between logos */
+}
+
+/* Keyframes for the scrolling

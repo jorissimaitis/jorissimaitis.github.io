@@ -45,7 +45,7 @@ latest_posts: false
   flex-direction: column;  /* Stack the boxes vertically */
   gap: 15px;  /* space between the boxes */
   margin-top: 20px; /* space from the paragraph */
-  align-items: left;  /* Center the boxes horizontally */
+  align-items: right;  /* Center the boxes horizontally */
 }
 
 .expertise-boxes .box {

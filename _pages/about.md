@@ -5,7 +5,7 @@ permalink: /
 subtitle: <strong>LCA Consultant - PhD, PIEMA, REnvP</strong> #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: lright
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info:

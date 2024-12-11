@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: Home
+title: Home
 permalink: /
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -10,13 +10,15 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info:
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
 I am a life cycle assessment (LCA) practitioner, providing tailored solutions to measure and minimise the environmental impacts of products and services across their entire life cycle.
 
 ### Key Expertise:
+
 - **Life Cycle Assessment (LCA)**: Tailored solutions to measure and minimize environmental impacts across product life cycles.
+
 - **Critical Review**: Expertise in reviewing LCA studies for credibility and quality assurance.

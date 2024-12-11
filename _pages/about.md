@@ -104,11 +104,12 @@ latest_posts: false
 
 .logo-container {
   display: flex;
-  animation: scroll 15s linear infinite;  /* Scroll animation */
+  animation: scroll 60s linear infinite;  /* Slower scrolling animation */
 }
 
 .logo-container img {
   width: 150px;  /* Adjust logo size */
+  height: auto;   /* Maintain aspect ratio */
   margin-right: 50px;  /* Space between logos */
 }
 

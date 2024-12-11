@@ -75,7 +75,7 @@ latest_posts: false
 }
 
 .expertise-boxes .box {
-  background-color: #f5f5f5;  /* light gray background */
+  background-color: #F2E8CE;  /* light gray background */
   padding: 15px;
   border-radius: 8px;
   text-align: left;

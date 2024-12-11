@@ -7,7 +7,7 @@ subtitle: <strong>LCA Consultant - PhD, PIEMA, REnvP</strong> #<a href='#'>Affil
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info:
 
 news: false # includes a list of news items
@@ -49,7 +49,7 @@ latest_posts: false
 
 .expertise-boxes .box {
   background-color: #f5f5f5;  /* light gray background */
-  padding: 20px;
+  padding: 15px;
   border-radius: 8px;
   text-align: center;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);

@@ -45,7 +45,8 @@ latest_posts: false
     <img src="logo2.png" alt="Logo 2" />
     <img src="logo3.png" alt="Logo 3" />
     <img src="logo4.png" alt="Logo 4" />
-    <!-- Add more logos here -->
+    <img src="logo5.png" alt="Logo 5" />
+    <img src="logo6.png" alt="Logo 6" />
   </div>
 </div>
 

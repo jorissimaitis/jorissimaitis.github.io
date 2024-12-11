@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Life cycle assessment (LCA) practitioner, providing tailored solutions to measure and minimise the environmental impacts of products and services across their entire life cycle.
+Tailored solutions to measure and minimise the environmental impacts of products and services across their entire life cycle.
 
 <div class="expertise-boxes">
   <div class="box" id="lca">

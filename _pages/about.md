@@ -1,8 +1,7 @@
----
 layout: about
 title: about
 permalink: /
-subtitle: <strong>LCA Consultant - PhD, PIEMA, REnvP</strong> #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <strong class="custom-subtitle">LCA Consultant - PhD, PIEMA, REnvP</strong> #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -39,6 +38,11 @@ latest_posts: false
 </div>
 
 <style>
+/* Styling the subtitle */
+.custom-subtitle {
+  color: #4A90E2;  /* Example color (blue) */
+}
+
 /* Styling the boxes */
 .expertise-boxes {
   display: flex;
@@ -89,4 +93,3 @@ latest_posts: false
   }
 }
 </style>
-

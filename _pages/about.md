@@ -75,7 +75,7 @@ latest_posts: false
   margin: 0;
   font-size: 1rem;  /* slightly smaller font size */
   color: #333;  /* dark text color */
-  font-weight: 300;  /* semi-bold font weight */
+  font-weight: 450;  /* semi-bold font weight */
 }
 
 @media (max-width: 768px) {

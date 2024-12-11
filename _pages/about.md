@@ -79,7 +79,7 @@ latest_posts: false
 .expertise-boxes .box h3 {
   margin: 0;
   font-size: 1.1rem;  /* slightly smaller font size */
-  color:#B8860B;  /* dark text color */
+  color: #333;  /* dark text color */
   font-weight: 400;  /* semi-bold font weight */
 }
 

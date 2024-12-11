@@ -62,8 +62,8 @@ latest_posts: false
 .expertise-boxes .box a {
   text-decoration: none;
   color: #333;  /* dark text */
-  font-size: 1.1rem;  /* slightly smaller font size */
-  font-weight: 600;  /* semi-bold font weight */
+  font-size: 1.0rem;  /* slightly smaller font size */
+  font-weight: 300;  /* semi-bold font weight */
 }
 
 .expertise-boxes .box:hover {

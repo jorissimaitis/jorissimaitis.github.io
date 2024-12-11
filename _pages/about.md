@@ -108,9 +108,9 @@ latest_posts: false
 }
 
 .logo-container img {
-  width: 150px;  /* Adjust logo size */
-  height: auto;   /* Maintain aspect ratio */
   margin-right: 50px;  /* Space between logos */
+  object-fit: contain;  /* Maintain the aspect ratio */
+  height: auto;   /* Prevent distortion */
 }
 
 /* Keyframes for the scrolling */

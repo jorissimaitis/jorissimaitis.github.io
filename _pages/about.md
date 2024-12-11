@@ -41,7 +41,7 @@ latest_posts: false
 <style>
 /* Styling the subtitle */
 .custom-subtitle {
-  color: #4A90E2;  /* Example color (blue) */
+  color: #B8860B;  /* Example color (blue) #4A90E2 */
 }
 
 /* Styling the boxes */

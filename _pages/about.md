@@ -112,4 +112,13 @@ latest_posts: false
   margin-right: 50px;  /* Space between logos */
 }
 
-/* Keyframes for the scrolling
+/* Keyframes for the scrolling */
+@keyframes scroll {
+  0% {
+    transform: translateX(100%);  /* Start off-screen */
+  }
+  100% {
+    transform: translateX(-100%);  /* End off-screen */
+  }
+}
+</style>

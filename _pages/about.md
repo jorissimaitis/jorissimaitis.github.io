@@ -44,7 +44,7 @@ latest_posts: false
   display: flex;
   flex-direction: column;  /* Stack the boxes vertically */
   gap: 15px;  /* space between the boxes */
-  margin-top: 30px; /* space from the paragraph */
+  margin-top: 20px; /* space from the paragraph */
 }
 
 .expertise-boxes .box {

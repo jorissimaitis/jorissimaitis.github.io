@@ -57,7 +57,7 @@ latest_posts: false
   background-color: #f5f5f5;  /* light gray background */
   padding: 15px;
   border-radius: 8px;
-  text-align: center;
+  text-align: left;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease;  /* smooth transition for hover effect */
   width: 90%;  /* Set a percentage width (or adjust based on desired size) */

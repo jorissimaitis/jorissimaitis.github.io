@@ -46,7 +46,7 @@ nav_order: 1  # Adjust this to place the page in the desired order
 <div class="services">
   <!-- Service 1: Life Cycle Assessment -->
   <div class="service-box">
-    <img src="/assets/img/lca-placeholder.jpg" alt="Life Cycle Assessment" />
+    <img src="/assets/img/project1.jpg" alt="Life Cycle Assessment" />
     <div class="service-box-content">
       <h2>Life Cycle Assessment</h2>
       <p>
@@ -57,7 +57,7 @@ nav_order: 1  # Adjust this to place the page in the desired order
 
   <!-- Service 2: Critical Review -->
   <div class="service-box">
-    <img src="/assets/img/critical-review-placeholder.jpg" alt="Critical Review" />
+    <img src="/assets/img/project1.jpg" alt="Critical Review" />
     <div class="service-box-content">
       <h2>Critical Review</h2>
       <p>
@@ -68,7 +68,7 @@ nav_order: 1  # Adjust this to place the page in the desired order
 
   <!-- Service 3: Advisory -->
   <div class="service-box">
-    <img src="/assets/img/advisory-placeholder.jpg" alt="Advisory Services" />
+    <img src="/assets/img/project1.jpg" alt="Advisory Services" />
     <div class="service-box-content">
       <h2>Advisory</h2>
       <p>

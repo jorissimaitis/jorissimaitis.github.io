@@ -21,6 +21,7 @@ nav_order: 2  # Adjust this to place the page in the desired order
     overflow: hidden;
     background: #fff;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
   }
 
   .project-card:hover {
@@ -61,25 +62,56 @@ nav_order: 2  # Adjust this to place the page in the desired order
   .project-card a:hover {
     text-decoration: underline;
   }
+
+  .project-details {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.95);
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+  }
+
+  .project-card.expanded .project-details {
+    display: block;
+  }
 </style>
+
+<script>
+  function toggleDetails(cardId) {
+    const card = document.getElementById(cardId);
+    card.classList.toggle('expanded');
+  }
+</script>
 
 <h1>Our Projects</h1>
 <p>Explore our exciting projects below. Click on any project to learn more!</p>
 
 <div class="project-grid">
   <!-- Project 1 -->
-  <div class="project-card">
+  <div class="project-card" id="project1">
     <img src="/assets/img/project1.jpg" alt="Life Cycle Assessment">
     <div class="card-content">
       <h3>Life Cycle Assessment</h3>
       <p>Evaluate the environmental impacts of products and services across their life cycle.</p>
-      <a href="#">Learn More</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project1')">Learn More</a>
+    </div>
+    <div class="project-details">
+      <h3>Life Cycle Assessment - Details</h3>
+      <p>
+        Life Cycle Assessment (LCA) is a comprehensive method to evaluate the environmental impacts of products and services across their entire life cycle—from raw material extraction, manufacturing, distribution, use, to disposal or recycling. We provide tailored LCA solutions to help organizations minimize their environmental footprint and achieve sustainability goals.
+      </p>
+      <a href="javascript:void(0);" onclick="toggleDetails('project1')">Close</a>
     </div>
   </div>
 
   <!-- Project 2 -->
   <div class="project-card">
-    <img src="/assets/img/project2.png" alt="Critical Review">
+    <img src="/assets/img/project2.jpg" alt="Critical Review">
     <div class="card-content">
       <h3>Critical Review</h3>
       <p>Ensure your LCA studies meet ISO standards and accurately reflect impacts.</p>

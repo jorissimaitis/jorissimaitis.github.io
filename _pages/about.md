@@ -16,7 +16,7 @@ social: false # includes social icons at the bottom of the page
 latest_posts: false
 ---
 
-<p style="font-size: 1.1rem;">Tailored solutions to measure and minimise the environmental impacts of products and services across their entire life cycle.</p>
+<p style="font-size: 1.2rem;">Tailored solutions to measure and minimise the environmental impacts of products and services across their entire life cycle.</p>
 
 <div class="expertise-boxes">
   <div class="box" id="lca">

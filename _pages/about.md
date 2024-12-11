@@ -54,7 +54,7 @@ latest_posts: false
 }
 
 .expertise-boxes .box {
-  background-color: #B8860B;  /* light gray background */
+  background-color: #f5f5f5;  /* light gray background */
   padding: 15px;
   border-radius: 8px;
   text-align: left;
@@ -66,7 +66,7 @@ latest_posts: false
 
 .expertise-boxes .box a {
   text-decoration: none;
-  color: #333;  /* dark text */
+  color: #B8860B;  /* dark text */
   font-size: 1.0rem;  /* slightly smaller font size */
   font-weight: 300;  /* semi-bold font weight */
 }

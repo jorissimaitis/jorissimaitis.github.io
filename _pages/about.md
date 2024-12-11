@@ -60,8 +60,8 @@ latest_posts: false
 .expertise-boxes .box a {
   text-decoration: none;
   color: #333;  /* dark text */
-  font-size: 1.2rem;  /* slightly larger font size */
-  font-weight: bold;
+  font-size: 1.1rem;  /* slightly smaller font size */
+  font-weight: 600;  /* semi-bold font weight */
 }
 
 .expertise-boxes .box:hover {
@@ -71,9 +71,9 @@ latest_posts: false
 
 .expertise-boxes .box h3 {
   margin: 0;
-  font-size: 1.5rem;  /* make the text larger */
+  font-size: 1.2rem;  /* slightly smaller font size */
   color: #333;  /* dark text color */
-  font-weight: bold;
+  font-weight: 600;  /* semi-bold font weight */
 }
 
 @media (max-width: 768px) {
@@ -84,3 +84,4 @@ latest_posts: false
   }
 }
 </style>
+

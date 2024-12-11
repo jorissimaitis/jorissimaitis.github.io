@@ -104,7 +104,7 @@ latest_posts: false
 
 .logo-container {
   display: flex;
-  animation: scroll 60s linear infinite;  /* Slower scrolling animation */
+  animation: scroll 30s linear infinite;  /* Slower scrolling animation */
 }
 
 .logo-container img {

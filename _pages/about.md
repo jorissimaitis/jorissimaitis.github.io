@@ -6,7 +6,7 @@ subtitle: <strong class="custom-subtitle">LCA Consultant - PhD, PIEMA, REnvP</st
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic1.jpg
   image_circular: true # crops the image to make it circular
   more_info:
 

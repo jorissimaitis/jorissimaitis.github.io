@@ -162,14 +162,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
 
   <!-- Project 5 -->
   <div class="project-card" id="project5">
-    <img src="/assets/img/project5.jpg" alt="Project 5">
+    <img src="/assets/img/p_ccc.png" alt="Project 5">
     <div class="card-content">
-      <h3>Project 5</h3>
-      <p>A brief description of Project 5 goes here.</p>
+      <h3>UK's Seventh Carbon Budget</h3>
+      <p>Advising the UK government on industry and waste greenhouse gas emissions</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project5')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Project 5</h3>
+      <h3>Feb 2024 - Apr 2024 </h3>
       <p>
         This project investigates the impact of new materials in construction and their life cycle. The aim is to find alternatives to traditional materials that can reduce carbon emissions and improve sustainability in the built environment.
       </p>

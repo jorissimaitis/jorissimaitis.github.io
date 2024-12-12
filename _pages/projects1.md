@@ -1,3 +1,96 @@
+---
+layout: default
+permalink: /projects/
+title: Projects
+nav: true
+nav_order: 2  # Adjust this to place the page in the desired order
+---
+
+<style>
+  .project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    margin: 40px 0;
+  }
+
+  .project-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    background: #fff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+  }
+
+  .project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+  }
+
+  .project-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .project-card .card-content {
+    padding: 15px;
+  }
+
+  .project-card h3 {
+    margin: 0 0 10px;
+    font-size: 1.25rem;
+    color: #333;
+  }
+
+  .project-card p {
+    margin: 0;
+    color: #555;
+    line-height: 1.6;
+  }
+
+  .project-card a {
+    display: block;
+    margin-top: 10px;
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  .project-card a:hover {
+    text-decoration: underline;
+  }
+
+  .project-details {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.95);
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+  }
+
+  .project-card.expanded .project-details {
+    display: block;
+  }
+</style>
+
+<script>
+  function toggleDetails(cardId) {
+    const card = document.getElementById(cardId);
+    card.classList.toggle('expanded');
+  }
+</script>
+
+<h1>Our Projects</h1>
+<p>Explore our exciting projects below. Click on any project to learn more!</p>
+
 <div class="project-grid">
   <!-- Project 1 -->
   <div class="project-card" id="project1">
@@ -152,4 +245,3 @@
     </div>
   </div>
 </div>
-

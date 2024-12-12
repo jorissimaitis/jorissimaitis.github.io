@@ -48,7 +48,7 @@ nav_order: 1  # Adjust this to place the page in the desired order
 
   <!-- Service 2: Critical Review -->
   <div class="service">
-    <img src="/assets/img/project1.jpg" alt="Critical Review" />
+    <img src="/assets/img/review.png" alt="Critical Review" />
     <h2>Critical Review</h2>
     <p>
       Critical Review is an independent and objective evaluation of LCA studies to ensure they meet ISO standards and accurately reflect the product or service's environmental impacts. Our expert team offers critical review services to enhance the credibility and reliability of your LCA results.

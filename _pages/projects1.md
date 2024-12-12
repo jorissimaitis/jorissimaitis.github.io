@@ -179,10 +179,10 @@ nav_order: 2  # Adjust this to place the page in the desired order
 
   <!-- Project 6 -->
   <div class="project-card" id="project6">
-    <img src="/assets/img/project6.jpg" alt="Project 6">
+    <img src="/assets/img/p_anthesis.png" alt="Project 6">
     <div class="card-content">
-      <h3>Project 6</h3>
-      <p>A brief description of Project 6 goes here.</p>
+      <h3>Critical Review of Packaging</h3>
+      <p>Panel reviewer of Anthesis for consumer goods packaging products</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project6')">Learn More</a>
     </div>
     <div class="project-details">

@@ -20,19 +20,19 @@ latest_posts: false
 
 <div class="expertise-boxes">
   <div class="box" id="lca">
-    <a href="#lca">
+    <a href="/services">
       <h3>Life Cycle Assessment</h3>
     </a>
   </div>
 
   <div class="box" id="review">
-    <a href="#review">
+    <a href="/services">
       <h3>Critical Review</h3>
     </a>
   </div>
 
   <div class="box" id="advisory">
-    <a href="#advisory">
+    <a href="/services">
       <h3>Advisory</h3>
     </a>
   </div>

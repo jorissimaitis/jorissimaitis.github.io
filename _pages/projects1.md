@@ -128,7 +128,7 @@ nav_order: 2  # Adjust this to place the page in the desired order
 
   <!-- Project 3 -->
   <div class="project-card" id="project3">
-    <img src="/assets/img/p_bmi.jpg" alt="Advisory">
+    <img src="/assets/img/p_bmi.png" alt="Advisory">
     <div class="card-content">
       <h3>Lithium-ion batteries | Jan 2024 - May 2024 </h3>
       <p> Carbon footprinting of battery manufacturing </p>

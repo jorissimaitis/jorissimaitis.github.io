@@ -46,7 +46,7 @@ nav_order: 1  # Adjust this to place the page in the desired order
 <div class="services">
   <!-- Service 1: Life Cycle Assessment -->
   <div class="service-box">
-    <img src="/assets/img/project1.jpg" alt="Life Cycle Assessment" />
+    <img src="/assets/img/lca.png" alt="Life Cycle Assessment" />
     <div class="service-box-content">
       <h2>Life Cycle Assessment</h2>
       <p>

@@ -109,17 +109,17 @@ nav_order: 1  # Adjust this to place the page in the desired order
     </div>
 
     <div class="lca-box">
-      <h3>Custom Tools</h3>
-      <p>We develop bespoke carbon and environmental impact tools, tailored to your needs. Examples include simple spreadsheet-based calculators or advanced Python tools for product and supply-chain analysis, such as carbon calculators based on product dimensions, transport modes, or end-of-life treatments.</p>
+      <h3>Advanced Analysis and Tools</h3>
+      <p>Bespoke carbon and environmental impact tools, tailored to your needs. Examples include simple spreadsheet-based calculators or advanced Python tools for product, supply-chain, and scenario analysis, such as carbon calculators based on product dimensions, transport modes, end-of-life treatments, and decarbonisation scenarios. </p>
     </div>
 
     <div class="lca-box">
-      <h3>Environmental Impact Assessments</h3>
-      <p>Expert assessments of critical environmental impacts, including carbon footprinting (following the latest IPCC methodologies) and other impacts such as resource consumption, air pollution, toxicity, land use, and biodiversity.</p>
+      <h3>Environmental Impact Methods</h3>
+      <p>Various impacct methods from carbon footprinting (following the latest IPCC methodologies) and to other impacts such as resource consumption, air pollution, toxicity, and land use.</p>
     </div>
 
     <div class="lca-box">
-      <h3>Applications for Products and Services</h3>
+      <h3>Products and Services</h3>
       <p>LCAs can be conducted for a wide range of contexts, including consumer goods (e.g., t-shirts, chemical products), energy technologies (e.g., batteries, solar panels), construction materials, agricultural products (e.g., fertilizers), and more.</p>
     </div>
   </div>

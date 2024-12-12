@@ -111,10 +111,10 @@ nav_order: 2  # Adjust this to place the page in the desired order
 
   <!-- Project 2 -->
   <div class="project-card">
-    <img src="/assets/img/project2.jpg" alt="Critical Review">
+    <img src="/assets/img/p_bath.png" alt="Critical Review">
     <div class="card-content">
-      <h3>Critical Review</h3>
-      <p>Ensure your LCA studies meet ISO standards and accurately reflect impacts.</p>
+      <h3>Prospective LCA</h3>
+      <p>Advancing research into future-orientated methods for technologies.</p>
       <a href="#">Learn More</a>
     </div>
   </div>

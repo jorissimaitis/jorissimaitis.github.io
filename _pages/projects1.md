@@ -131,11 +131,11 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <img src="/assets/img/p_bmi.png" alt="Advisory">
     <div class="card-content">
       <h3>Lithium-ion batteries | Jan 2024 - May 2024 </h3>
-      <p> Carbon footprinting of battery manufacturing </p>
+      <p> LCA of lithium-ion battery manufacturing for EU regulations. </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project3')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Advisory</h3>
+      <h3>Lithium-ion batteries | Jan 2024 - May 2024</h3>
       <p>
         I worked as a consultant of Benchmark Mineral Intelligence with their sustainability division to deliver an LCA for a global battery manufacturer in anticipation of upcoming EU batteries regulation.
       </p>

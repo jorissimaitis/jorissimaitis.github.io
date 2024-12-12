@@ -50,6 +50,8 @@ latest_posts: false
     <img src="logo_bath.png" alt="Bath" />
     <img src="logo_emf.png" alt="EMF" />
     <img src="logo_nursem.png" alt="Nursem" />
+    <img src="logo_pathways.png" alt="Pathways" />
+    <img src="logo_carbongraph.png" alt="CG" />
     <img src="logo_relondon.png" alt="ReLondon" />
     <img src="logo_earthly.png" alt="Earthly" />
     <img src="logo_scholartribe.png" alt="ST" />

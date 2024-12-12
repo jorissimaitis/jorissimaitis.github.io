@@ -101,9 +101,9 @@ nav_order: 2  # Adjust this to place the page in the desired order
       <a href="javascript:void(0);" onclick="toggleDetails('project1')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Life Cycle Assessment - Details</h3>
+      <h3>Minviro</h3>
       <p>
-        Life Cycle Assessment (LCA) is a comprehensive method to evaluate the environmental impacts of products and services across their entire life cycle—from raw material extraction, manufacturing, distribution, use, to disposal or recycling. We provide tailored LCA solutions to help organizations minimize their environmental footprint and achieve sustainability goals.
+        At present, I am a Senior Sustainability Consultant at Minviro.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project1')">Close</a>
     </div>

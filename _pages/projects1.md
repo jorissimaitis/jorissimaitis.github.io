@@ -96,8 +96,8 @@ nav_order: 2  # Adjust this to place the page in the desired order
   <div class="project-card" id="project1">
     <img src="/assets/img/project1.jpg" alt="Life Cycle Assessment">
     <div class="card-content">
-      <h3>Life Cycle Assessment</h3>
-      <p>Evaluate the environmental impacts of products and services across their life cycle.</p>
+      <h3>Minviro</h3>
+      <p>Measuring and minimising environmental impacts of raw materials and energy technologies</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project1')">Learn More</a>
     </div>
     <div class="project-details">

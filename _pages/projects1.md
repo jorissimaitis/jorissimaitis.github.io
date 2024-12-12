@@ -96,12 +96,12 @@ nav_order: 2  # Adjust this to place the page in the desired order
   <div class="project-card" id="project1">
     <img src="/assets/img/p_minviro.png" alt="Minviro">
     <div class="card-content">
-      <h3>Minviro | Feb 2025 - Present </h3>
+      <h3>Minviro </h3>
       <p>Measuring and minimising environmental impacts of raw materials and energy technologies.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project1')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Minviro</h3>
+      <h3>Feb 2025 - Present </h3>
       <p>
         At present, I am a Senior Sustainability Consultant at Minviro. I work with a specialist team to deliver data-driven, sustainability solutions to world-leading organisations. This primarily focusses on LCA for the raw materials and energy sector. We also develop comprehensive databases, tools, innovation, and research. I have delivered several ISO-compliant LCAs, critical reviews, and innovation advisory.
       </p>
@@ -113,12 +113,12 @@ nav_order: 2  # Adjust this to place the page in the desired order
   <div class="project-card" id="project2">
     <img src="/assets/img/p_bath.png" alt="Critical Review">
     <div class="card-content">
-      <h3>Prospective LCA | Sep 2021 - Jan 2025 </h3>
+      <h3>Prospective LCA</h3>
       <p>Advancing research into future-oriented methods for technologies.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project2')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Prospective LCA | Sep 2021- Jan 2025 </h3>
+      <h3>Sep 2021- Jan 2025 </h3>
       <p>
         I completed my PhD at the University of Bath, collaborating with University College London and Paul Scherrer Institut. We developed LCA methods to project the future environmental impacts of batteries, energy systems, and electric vehicles, publishing articles in world-class journals and renowned international conferences.
       </p>
@@ -130,12 +130,12 @@ nav_order: 2  # Adjust this to place the page in the desired order
   <div class="project-card" id="project3">
     <img src="/assets/img/p_bmi.png" alt="Advisory">
     <div class="card-content">
-      <h3>Lithium-ion batteries | Jan 2024 - May 2024 </h3>
+      <h3>Lithium-ion batteries</h3>
       <p> LCA of lithium-ion battery manufacturing for EU regulations. </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project3')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Lithium-ion batteries | Jan 2024 - May 2024</h3>
+      <h3>Jan 2024 - May 2024</h3>
       <p>
         I worked as a consultant of Benchmark Mineral Intelligence with their sustainability division to deliver an LCA for a global battery manufacturer in anticipation of upcoming EU batteries regulation.
       </p>
@@ -145,16 +145,16 @@ nav_order: 2  # Adjust this to place the page in the desired order
 
   <!-- Project 4 -->
   <div class="project-card" id="project4">
-    <img src="/assets/img/project4.jpg" alt="Project 4">
+    <img src="/assets/img/p_pathways.png" alt="Project 4">
     <div class="card-content">
-      <h3>Project 4</h3>
-      <p>A brief description of Project 4 goes here.</p>
+      <h3>Software Advisory</h3>
+      <p>Decarbonising construction by LCA automation and environmental product declarations</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project4')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Project 4</h3>
+      <h3>Jan 2024 - Aug 2025</h3>
       <p>
-        This project focuses on implementing cutting-edge sustainability solutions for industries dealing with high energy consumption. Our goal is to reduce energy use and improve resource efficiency while maintaining the competitiveness of these sectors.
+        I helped advise the development of a start-up Pathways on LCA principles and methodology, for deploying an automated and integrated software for construction product impacts and environmental product declaration generation.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project4')">Close</a>
     </div>

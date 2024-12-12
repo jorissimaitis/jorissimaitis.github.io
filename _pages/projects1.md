@@ -96,7 +96,7 @@ nav_order: 2  # Adjust this to place the page in the desired order
   <div class="project-card" id="project1">
     <img src="/assets/img/p_minviro.png" alt="Minviro">
     <div class="card-content">
-      <h3>Minviro</h3>
+      <h3>Minviro | Feb 2025 - Present </h3>
       <p>Measuring and minimising environmental impacts of raw materials and energy technologies.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project1')">Learn More</a>
     </div>
@@ -113,14 +113,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
   <div class="project-card" id="project2">
     <img src="/assets/img/p_bath.png" alt="Critical Review">
     <div class="card-content">
-      <h3>Prospective LCA</h3>
+      <h3>Prospective LCA | Sep 2021 - Jan 2025 </h3>
       <p>Advancing research into future-oriented methods for technologies.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project2')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Prospective LCA</h3>
+      <h3>Prospective LCA | Sep 2021- Jan 2025 </h3>
       <p>
-        This project explores future-oriented approaches to life cycle assessment (LCA), focusing on emerging technologies and how they can impact long-term sustainability goals. The research aims to create frameworks for assessing the environmental impacts of future technologies before they are widely adopted.
+        I completed my PhD at the University of Bath, collaborating with University College London and Paul Scherrer Institut. We developed LCA methods to project the future environmental impacts of batteries, energy systems, and electric vehicles, publishing articles in world-class journals and renowned international conferences.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project2')">Close</a>
     </div>
@@ -128,16 +128,16 @@ nav_order: 2  # Adjust this to place the page in the desired order
 
   <!-- Project 3 -->
   <div class="project-card" id="project3">
-    <img src="/assets/img/project3.jpg" alt="Advisory">
+    <img src="/assets/img/p_bmi.jpg" alt="Advisory">
     <div class="card-content">
-      <h3>Advisory</h3>
-      <p>Get expert guidance on reducing environmental impacts and improving efficiency.</p>
+      <h3>Lithium-ion batteries | Jan 2024 - May 2024 </h3>
+      <p> Carbon footprinting of battery manufacturing </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project3')">Learn More</a>
     </div>
     <div class="project-details">
       <h3>Advisory</h3>
       <p>
-        In this project, I provide advisory services to help organizations minimize their environmental footprint. This includes guidance on implementing life cycle assessments, identifying inefficiencies, and making informed decisions to improve sustainability. Clients range from startups to established industry leaders.
+        I worked as a consultant of Benchmark Mineral Intelligence with their sustainability division to deliver an LCA for a global battery manufacturer in anticipation of upcoming EU batteries regulation.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project3')">Close</a>
     </div>

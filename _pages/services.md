@@ -48,12 +48,13 @@ nav_order: 1  # Adjust this to place the page in the desired order
     margin: 20px 0;
     background-color: #f9f9f9;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
   }
 
   .lca-box:hover {
     transform: scale(1.02);
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+    background-color: #fff8e1; /* Super light gold color */
   }
 
   .lca-box h3 {
@@ -115,7 +116,7 @@ nav_order: 1  # Adjust this to place the page in the desired order
 
     <div class="lca-box">
       <h3>Environmental Impact Methods</h3>
-      <p>Various impacct methods from carbon footprinting (following the latest IPCC methodologies) and to other impacts such as resource consumption, air pollution, toxicity, and land use.</p>
+      <p>Various impact methods from carbon footprinting (following the latest IPCC methodologies) to other impacts such as resource consumption, air pollution, toxicity, and land use.</p>
     </div>
 
     <div class="lca-box">

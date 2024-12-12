@@ -129,14 +129,14 @@ nav_order: 1  # Adjust this to place the page in the desired order
   <div class="service">
     <img src="/assets/img/review.png" alt="Critical Review" />
     <h2>Critical Review</h2>
-    <p>Critical Review is an independent and objective evaluation of LCA studies to ensure they meet ISO standards and accurately reflect the product or service's environmental impacts. Our expert team offers critical review services to enhance the credibility and reliability of your LCA results.</p>
+    <p>An independent and objective evaluation of LCA studies to ensure they meet ISO standards and accurately reflect the product or service's environmental impacts. I offer services to review and verify your LCA and methodology for internal or reporting purposes, and enhance the credibility and reliability of your results.</p>
   </div>
 
   <!-- Service 3: Advisory -->
   <div class="service">
     <img src="/assets/img/guide.png" alt="Advisory Services" />
     <h2>Advisory</h2>
-    <p>Our advisory services are designed to guide organizations in making informed decisions on sustainability. Whether you're looking to reduce your environmental impacts, improve efficiency, or navigate environmental regulations, we provide expert advice tailored to your business's needs.</p>
+    <p>I provide expert guidance on LCA and sustainability, offering support from initial steps to ongoing assistance after implementation. This applies not only to product and service sustainability but also to organization-wide strategies tailored to your business needs and software development.</p>
   </div>
 </div>
 

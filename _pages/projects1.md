@@ -97,13 +97,13 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <img src="/assets/img/p_minviro.png" alt="Minviro">
     <div class="card-content">
       <h3>Minviro</h3>
-      <p>Measuring and minimising environmental impacts of raw materials and energy technologies. I work with a specialist team to deliver data-driven, sustainability solutions to world-leading organisations. This primarily focusses on LCA for the raw materials and energy sector</p>
+      <p>Measuring and minimising environmental impacts of raw materials and energy technologies.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project1')">Learn More</a>
     </div>
     <div class="project-details">
       <h3>Minviro</h3>
       <p>
-        At present, I am a Senior Sustainability Consultant at Minviro.
+        At present, I am a Senior Sustainability Consultant at Minviro. I work with a specialist team to deliver data-driven, sustainability solutions to world-leading organisations. This primarily focusses on LCA for the raw materials and energy sector
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project1')">Close</a>
     </div>

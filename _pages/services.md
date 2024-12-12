@@ -20,6 +20,12 @@ nav_order: 1  # Adjust this to place the page in the desired order
     border-radius: 8px;
     margin-bottom: 20px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Add smooth animation */
+  }
+
+  .service img:hover {
+    transform: scale(1.05); /* Slightly expand the image */
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15); /* Add a stronger shadow effect */
   }
 
   .service h2 {

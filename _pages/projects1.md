@@ -94,7 +94,7 @@ nav_order: 2  # Adjust this to place the page in the desired order
 <div class="project-grid">
   <!-- Project 1 -->
   <div class="project-card" id="project1">
-    <img src="/assets/img/p_minviro.jpg" alt="Minviro">
+    <img src="/assets/img/p_minviro.png" alt="Minviro">
     <div class="card-content">
       <h3>Minviro</h3>
       <p>Measuring and minimising environmental impacts of raw materials and energy technologies</p>

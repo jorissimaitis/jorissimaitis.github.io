@@ -103,7 +103,7 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="project-details">
       <h3>Minviro</h3>
       <p>
-        At present, I am a Senior Sustainability Consultant at Minviro. I work with a specialist team to deliver data-driven, sustainability solutions to world-leading organisations. This primarily focusses on LCA for the raw materials and energy sector
+        At present, I am a Senior Sustainability Consultant at Minviro. I work with a specialist team to deliver data-driven, sustainability solutions to world-leading organisations. This primarily focusses on LCA for the raw materials and energy sector. We also develop compherensive databases, tools, innovation, and research. I have delivered several ISO-compliant LCAs, critical reviews, and innovation advisory.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project1')">Close</a>
     </div>

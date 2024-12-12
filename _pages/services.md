@@ -57,7 +57,7 @@ nav_order: 1  # Adjust this to place the page in the desired order
 
   <!-- Service 3: Advisory -->
   <div class="service">
-    <img src="/assets/img/project1.jpg" alt="Advisory Services" />
+    <img src="/assets/img/guide.png" alt="Advisory Services" />
     <h2>Advisory</h2>
     <p>
       Our advisory services are designed to guide organizations in making informed decisions on sustainability. Whether you're looking to reduce your environmental impacts, improve efficiency, or navigate environmental regulations, we provide expert advice tailored to your business's needs.

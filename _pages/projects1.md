@@ -79,7 +79,7 @@ nav_order: 2  # Adjust this to place the page in the desired order
   .project-card.expanded .project-details {
     display: block;
   }
-</style>a
+</style>
 
 <script>
   function toggleDetails(cardId) {

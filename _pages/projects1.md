@@ -263,4 +263,101 @@ nav_order: 2  # Adjust this to place the page in the desired order
       <a href="javascript:void(0);" onclick="toggleDetails('project10')">Close</a>
     </div>
   </div>
+
+  <!-- Project 11 -->
+  <div class="project-card" id="project11">
+    <img src="/assets/img/p_rocket.png" alt="Produce Carbon Calculator">
+    <div class="card-content">
+      <h3>Produce Carbon Calculator</h3>
+      <p>A tool to calculate the carbon footprint of produce, empowering sustainable agriculture practices.</p>
+      <a href="javascript:void(0);" onclick="toggleDetails('project11')">Learn More</a>
+    </div>
+    <div class="project-details">
+      <h3>Oct 2023 - Dec 2024</h3>
+      <p>
+        Developed in collaboration with agricultural experts, this project involves creating a carbon footprint
+        calculator tailored for produce farming. The tool provides insights to farmers and organizations 
+        to optimize operations and reduce emissions across the supply chain.
+      </p>
+      <a href="javascript:void(0);" onclick="toggleDetails('project11')">Close</a>
+    </div>
+  </div>
+
+  <!-- Project 12 -->
+  <div class="project-card" id="project12">
+    <img src="/assets/img/p_nursem.png" alt="Produce Carbon Calculator">
+    <div class="card-content">
+      <h3>Produce Carbon Calculator</h3>
+      <p>A tool to calculate the carbon footprint of produce, empowering sustainable agriculture practices.</p>
+      <a href="javascript:void(0);" onclick="toggleDetails('project12')">Learn More</a>
+    </div>
+    <div class="project-details">
+      <h3>Oct 2023 - Dec 2024</h3>
+      <p>
+        Developed in collaboration with agricultural experts, this project involves creating a carbon footprint
+        calculator tailored for produce farming. The tool provides insights to farmers and organizations 
+        to optimize operations and reduce emissions across the supply chain.
+      </p>
+      <a href="javascript:void(0);" onclick="toggleDetails('project12')">Close</a>
+    </div>
+  </div>
+
+  <!-- Project 13 -->
+  <div class="project-card" id="project13">
+    <img src="/assets/img/p_relondon.png" alt="Produce Carbon Calculator">
+    <div class="card-content">
+      <h3>Produce Carbon Calculator</h3>
+      <p>A tool to calculate the carbon footprint of produce, empowering sustainable agriculture practices.</p>
+      <a href="javascript:void(0);" onclick="toggleDetails('project13')">Learn More</a>
+    </div>
+    <div class="project-details">
+      <h3>Oct 2023 - Dec 2024</h3>
+      <p>
+        Developed in collaboration with agricultural experts, this project involves creating a carbon footprint
+        calculator tailored for produce farming. The tool provides insights to farmers and organizations 
+        to optimize operations and reduce emissions across the supply chain.
+      </p>
+      <a href="javascript:void(0);" onclick="toggleDetails('project13')">Close</a>
+    </div>
+  </div>
+
+  <!-- Project 14 -->
+  <div class="project-card" id="project14">
+    <img src="/assets/img/p_gw.png" alt="Produce Carbon Calculator">
+    <div class="card-content">
+      <h3>Produce Carbon Calculator</h3>
+      <p>A tool to calculate the carbon footprint of produce, empowering sustainable agriculture practices.</p>
+      <a href="javascript:void(0);" onclick="toggleDetails('project14')">Learn More</a>
+    </div>
+    <div class="project-details">
+      <h3>Oct 2023 - Dec 2024</h3>
+      <p>
+        Developed in collaboration with agricultural experts, this project involves creating a carbon footprint
+        calculator tailored for produce farming. The tool provides insights to farmers and organizations 
+        to optimize operations and reduce emissions across the supply chain.
+      </p>
+      <a href="javascript:void(0);" onclick="toggleDetails('project14')">Close</a>
+    </div>
+  </div>
+
+  <!-- Project 15 -->
+  <div class="project-card" id="project15">
+    <img src="/assets/img/p_ucl.png" alt="Produce Carbon Calculator">
+    <div class="card-content">
+      <h3>Produce Carbon Calculator</h3>
+      <p>A tool to calculate the carbon footprint of produce, empowering sustainable agriculture practices.</p>
+      <a href="javascript:void(0);" onclick="toggleDetails('project15')">Learn More</a>
+    </div>
+    <div class="project-details">
+      <h3>Oct 2023 - Dec 2024</h3>
+      <p>
+        Developed in collaboration with agricultural experts, this project involves creating a carbon footprint
+        calculator tailored for produce farming. The tool provides insights to farmers and organizations 
+        to optimize operations and reduce emissions across the supply chain.
+      </p>
+      <a href="javascript:void(0);" onclick="toggleDetails('project15')">Close</a>
+    </div>
+  </div>
+
+
 </div>

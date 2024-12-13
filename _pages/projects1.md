@@ -349,3 +349,23 @@ nav_order: 2  # Adjust this to place the page in the desired order
 
 
 </div>
+
+<style>
+  /* Existing styles... */
+
+  /* Style for the + and - buttons */
+  .project-card a {
+    display: block;
+    margin-top: 10px;
+    color: #d4af37; /* Gold color */
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.5rem; /* Slightly larger for emphasis */
+    text-align: center;
+  }
+
+  .project-card a:hover {
+    text-decoration: underline;
+    color: #b8860b; /* Slightly darker gold on hover */
+  }
+</style>

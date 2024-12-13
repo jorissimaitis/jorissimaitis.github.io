@@ -88,8 +88,8 @@ nav_order: 2  # Adjust this to place the page in the desired order
   }
 </script>
 
-<h1>Our Projects</h1>
-<p>Explore our exciting projects below. Click on any project to learn more!</p>
+<h1>Projects</h1>
+<p>An brief overview of the my present and past projects.</p>
 
 <div class="project-grid">
   <!-- Project 1 -->

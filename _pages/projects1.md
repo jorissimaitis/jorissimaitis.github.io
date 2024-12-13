@@ -248,18 +248,19 @@ nav_order: 2  # Adjust this to place the page in the desired order
 
   <!-- Project 10 -->
   <div class="project-card" id="project10">
-    <img src="/assets/img/p_razbio.png" alt="Project 10">
+    <img src="/assets/img/p_razbio.png" alt="Produce Carbon Calculator">
     <div class="card-content">
       <h3>Produce Carbon Calculator</h3>
-      <p>A brief description of Project 9 goes here.</p>
+      <p>A tool to calculate the carbon footprint of produce, empowering sustainable agriculture practices.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project10')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Project 9</h3>
+      <h3>Oct 2023 - Dec 2024</h3>
       <p>
-        A deep dive into sustainable practices in agriculture, focusing on methods that reduce environmental impact while maintaining productivity and profitability for farmers.
+        Developed in collaboration with agricultural experts, this project involves creating a carbon footprint
+        calculator tailored for produce farming. The tool provides insights to farmers and organizations 
+        to optimize operations and reduce emissions across the supply chain.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project10')">Close</a>
     </div>
   </div>
-</div>

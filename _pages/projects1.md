@@ -213,9 +213,9 @@ nav_order: 2  # Adjust this to place the page in the desired order
 
   <!-- Project 8 -->
   <div class="project-card" id="project8">
-    <img src="/assets/img/project8.jpg" alt="Project 8">
+    <img src="/assets/img/p_carbongraph.png" alt="Project 8">
     <div class="card-content">
-      <h3>Project 8</h3>
+      <h3>Software Advisory</h3>
       <p>A brief description of Project 8 goes here.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project8')">Learn More</a>
     </div>
@@ -230,9 +230,9 @@ nav_order: 2  # Adjust this to place the page in the desired order
 
   <!-- Project 9 -->
   <div class="project-card" id="project9">
-    <img src="/assets/img/project9.jpg" alt="Project 9">
+    <img src="/assets/img/p_banes.png" alt="Project 9">
     <div class="card-content">
-      <h3>Project 9</h3>
+      <h3>Zero Carbon Construction Policy</h3>
       <p>A brief description of Project 9 goes here.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project9')">Learn More</a>
     </div>

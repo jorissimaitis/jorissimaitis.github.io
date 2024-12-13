@@ -244,7 +244,6 @@ nav_order: 2  # Adjust this to place the page in the desired order
       <a href="javascript:void(0);" onclick="toggleDetails('project9')">Close</a>
     </div>
   </div>
-</div>
 
   <!-- Project 10 -->
   <div class="project-card" id="project10">
@@ -264,3 +263,4 @@ nav_order: 2  # Adjust this to place the page in the desired order
       <a href="javascript:void(0);" onclick="toggleDetails('project10')">Close</a>
     </div>
   </div>
+</div>

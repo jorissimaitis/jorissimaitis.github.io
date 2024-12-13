@@ -96,8 +96,8 @@ nav_order: 2  # Adjust this to place the page in the desired order
   <div class="project-card" id="project1">
     <img src="/assets/img/p_minviro.png" alt="Minviro">
     <div class="card-content">
-      <h3>Minviro </h3>
-      <p>Measuring and minimising environmental impacts of raw materials and energy technologies.</p>
+      <h3>Raw materials and energy technologies</h3>
+      <p>Measuring and minimising environmental impacts of world-leading organisations.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project1')">Learn More</a>
     </div>
     <div class="project-details">
@@ -114,7 +114,7 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <img src="/assets/img/p_bath.png" alt="Critical Review">
     <div class="card-content">
       <h3>Prospective LCA</h3>
-      <p>Advancing research into future-oriented methods for technologies.</p>
+      <p>Advancing research into future-oriented methods for energy and transport technologies.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project2')">Learn More</a>
     </div>
     <div class="project-details">
@@ -171,7 +171,7 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="project-details">
       <h3>Feb 2024 - Apr 2024 </h3>
       <p>
-        This project investigates the impact of new materials in construction and their life cycle. The aim is to find alternatives to traditional materials that can reduce carbon emissions and improve sustainability in the built environment.
+        I completed a policy fellowship with the UK's Climate Change Committee, contributing to the Seventh Carbon Budget on decarbonising industry and waste systems.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project5')">Close</a>
     </div>
@@ -186,9 +186,9 @@ nav_order: 2  # Adjust this to place the page in the desired order
       <a href="javascript:void(0);" onclick="toggleDetails('project6')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Project 6</h3>
+      <h3>Feb 2024 - Sep 2024</h3>
       <p>
-        A comprehensive evaluation of the environmental impacts of recycling processes and materials recovery. This project focuses on optimizing the recycling chain to achieve greater sustainability in waste management.
+        I conduct critical reviews for Anthesis LCA projects which have focussed on packaging materials and consumer goods.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project6')">Close</a>
     </div>
@@ -198,14 +198,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
   <div class="project-card" id="project7">
     <img src="/assets/img/p_eightversa.png" alt="Project 7">
     <div class="card-content">
-      <h3>LCA Certification Advisory</h3>
-      <p>A brief description of Project 7 goes here.</p>
+      <h3>Carbon Certification Methods</h3>
+      <p>Advisory on LCA methodology for certification development.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project7')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Project 7</h3>
+      <h3>May 2022</h3>
       <p>
-        A study on the life cycle of renewable energy technologies, such as solar panels and wind turbines, exploring ways to reduce environmental impacts during their manufacturing, usage, and disposal phases.
+        I advised and reviewed Eight Versa's proposals for a carbon certification scheme using LCA methodology.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project7')">Close</a>
     </div>
@@ -216,13 +216,13 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <img src="/assets/img/p_carbongraph.png" alt="Project 8">
     <div class="card-content">
       <h3>Software Advisory</h3>
-      <p>A brief description of Project 8 goes here.</p>
+      <p>Accessible LCA using AI</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project8')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Project 8</h3>
+      <h3>Jun 2024 - Sep 2024</h3>
       <p>
-        Focuses on evaluating the environmental impacts of urban development and transportation systems. This project seeks to promote more sustainable city planning and infrastructure development.
+        I advised and reviewed LCA software developed by CarbonGraph that makes LCA accessible driven by AI.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project8')">Close</a>
     </div>
@@ -233,13 +233,13 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <img src="/assets/img/p_banes.png" alt="Project 9">
     <div class="card-content">
       <h3>Zero Carbon Construction Policy</h3>
-      <p>A brief description of Project 9 goes here.</p>
+      <p>Local policy investigation into decarbonising construction</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project9')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Project 9</h3>
+      <h3>Jan 2023 - Sep 2023</h3>
       <p>
-        A deep dive into sustainable practices in agriculture, focusing on methods that reduce environmental impact while maintaining productivity and profitability for farmers.
+        I worked as a leading researcher with University of Bath team to investigate the effectiveness of zero carbon construction policy for the Bath & Northeast Somerset Council.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project9')">Close</a>
     </div>
@@ -250,15 +250,13 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <img src="/assets/img/p_razbio.png" alt="Produce Carbon Calculator">
     <div class="card-content">
       <h3>Produce Carbon Calculator</h3>
-      <p>A tool to calculate the carbon footprint of produce, empowering sustainable agriculture practices.</p>
+      <p>LCA tool for organic broccoli production and transport scenarios.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project10')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Oct 2023 - Dec 2024</h3>
+      <h3>May 2024 - Sept 2024</h3>
       <p>
-        Developed in collaboration with agricultural experts, this project involves creating a carbon footprint
-        calculator tailored for produce farming. The tool provides insights to farmers and organizations 
-        to optimize operations and reduce emissions across the supply chain.
+      For consultancy project with Razbio, I developed a simple and accessible sheet-based LCA tool to estimate the carbon footprint of organic broccoli production vs. commercial methods.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project10')">Close</a>
     </div>
@@ -266,18 +264,16 @@ nav_order: 2  # Adjust this to place the page in the desired order
 
   <!-- Project 11 -->
   <div class="project-card" id="project11">
-    <img src="/assets/img/p_rocket.png" alt="Produce Carbon Calculator">
+    <img src="/assets/img/p_rocket.png" alt="Garment Products">
     <div class="card-content">
-      <h3>Produce Carbon Calculator</h3>
-      <p>A tool to calculate the carbon footprint of produce, empowering sustainable agriculture practices.</p>
+      <h3>Garment Products</h3>
+      <p>LCA of t-shirts, vests, and cycling jerseys.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project11')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Oct 2023 - Dec 2024</h3>
+      <h3>Jun 2022 - Dec 2022</h3>
       <p>
-        Developed in collaboration with agricultural experts, this project involves creating a carbon footprint
-        calculator tailored for produce farming. The tool provides insights to farmers and organizations 
-        to optimize operations and reduce emissions across the supply chain.
+        Consulting for Rocket Charities and Earthly, I conducted a cradle-to-grave ISO-based LCA of garment products such as t-shirts, vests, and cycling jerseys.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project11')">Close</a>
     </div>
@@ -285,18 +281,16 @@ nav_order: 2  # Adjust this to place the page in the desired order
 
   <!-- Project 12 -->
   <div class="project-card" id="project12">
-    <img src="/assets/img/p_nursem.png" alt="Produce Carbon Calculator">
+    <img src="/assets/img/p_nursem.png" alt="Skincare Products">
     <div class="card-content">
-      <h3>Produce Carbon Calculator</h3>
-      <p>A tool to calculate the carbon footprint of produce, empowering sustainable agriculture practices.</p>
+      <h3>Skincare Products</h3>
+      <p>LCA of medical skincare products and circular economy strategies</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project12')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Oct 2023 - Dec 2024</h3>
+      <h3>Jan 2022 - Jun 2022</h3>
       <p>
-        Developed in collaboration with agricultural experts, this project involves creating a carbon footprint
-        calculator tailored for produce farming. The tool provides insights to farmers and organizations 
-        to optimize operations and reduce emissions across the supply chain.
+        In consultation with Nursem, I delivered a cradle-to-gave ISO-based LCA of several skin care products including scenarios for circular economy strategies such as refill and reuse packaging.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project12')">Close</a>
     </div>
@@ -304,18 +298,16 @@ nav_order: 2  # Adjust this to place the page in the desired order
 
   <!-- Project 13 -->
   <div class="project-card" id="project13">
-    <img src="/assets/img/p_relondon.png" alt="Produce Carbon Calculator">
+    <img src="/assets/img/p_relondon.png" alt="Carbon Calculator">
     <div class="card-content">
-      <h3>Produce Carbon Calculator</h3>
-      <p>A tool to calculate the carbon footprint of produce, empowering sustainable agriculture practices.</p>
+      <h3>Carbon Calculator</h3>
+      <p>Advisory and review of carbon footprint calculator.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project13')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Oct 2023 - Dec 2024</h3>
+      <h3>May 2022</h3>
       <p>
-        Developed in collaboration with agricultural experts, this project involves creating a carbon footprint
-        calculator tailored for produce farming. The tool provides insights to farmers and organizations 
-        to optimize operations and reduce emissions across the supply chain.
+        I consulted with ReLondon to review and feedback on their existing product carbon footprint calculator.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project13')">Close</a>
     </div>
@@ -323,18 +315,16 @@ nav_order: 2  # Adjust this to place the page in the desired order
 
   <!-- Project 14 -->
   <div class="project-card" id="project14">
-    <img src="/assets/img/p_gw.png" alt="Produce Carbon Calculator">
+    <img src="/assets/img/p_gw.png" alt="Reuse Packaging Supply Chain">
     <div class="card-content">
-      <h3>Produce Carbon Calculator</h3>
-      <p>A tool to calculate the carbon footprint of produce, empowering sustainable agriculture practices.</p>
+      <h3>Reusable Wine Packaging</h3>
+      <p>Project proposal for implementing a reuse packaging supply-chain</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project14')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Oct 2023 - Dec 2024</h3>
+      <h3>Jan 2021 - Jun 2021</h3>
       <p>
-        Developed in collaboration with agricultural experts, this project involves creating a carbon footprint
-        calculator tailored for produce farming. The tool provides insights to farmers and organizations 
-        to optimize operations and reduce emissions across the supply chain.
+        As part of the "From Linear to Circular Programme 2021" run by the Ellen MacArthur Foundation, I led a consulting team for Garcon Wines to propose supply-chain for reusable wine packaging.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project14')">Close</a>
     </div>
@@ -342,18 +332,16 @@ nav_order: 2  # Adjust this to place the page in the desired order
 
   <!-- Project 15 -->
   <div class="project-card" id="project15">
-    <img src="/assets/img/p_ucl.png" alt="Produce Carbon Calculator">
+    <img src="/assets/img/p_ucl.png" alt="Biofertilizer Products">
     <div class="card-content">
-      <h3>Produce Carbon Calculator</h3>
-      <p>A tool to calculate the carbon footprint of produce, empowering sustainable agriculture practices.</p>
+      <h3>Biofertilizer Products</h3>
+      <p>LCA of biofertilizer products based on EU circular bioeconomy technologies.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project15')">Learn More</a>
     </div>
     <div class="project-details">
-      <h3>Oct 2023 - Dec 2024</h3>
+      <h3>May 2020 - Sep 2020</h3>
       <p>
-        Developed in collaboration with agricultural experts, this project involves creating a carbon footprint
-        calculator tailored for produce farming. The tool provides insights to farmers and organizations 
-        to optimize operations and reduce emissions across the supply chain.
+        As part of my MSc dissertation at UCL, I conducted an LCA of biofertilizer products from Project NOMAD - An EU Horizon 2020 funded project.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project15')">Close</a>
     </div>

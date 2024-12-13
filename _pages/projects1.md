@@ -98,14 +98,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="card-content">
       <h3>Raw materials and energy technologies</h3>
       <p>Measuring and minimising environmental impacts of world-leading organisations.</p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project1')">Learn More</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project1')">+</a>
     </div>
     <div class="project-details">
       <h3>Feb 2025 - Present </h3>
       <p>
         At present, I am a Senior Sustainability Consultant at Minviro. I work with a specialist team to deliver data-driven, sustainability solutions to world-leading organisations. This primarily focusses on LCA for the raw materials and energy sector. We also develop comprehensive databases, tools, innovation, and research. I have delivered several ISO-compliant LCAs, critical reviews, and innovation advisory.
       </p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project1')">Close</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project1')">-</a>
     </div>
   </div>
 
@@ -115,14 +115,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="card-content">
       <h3>Prospective LCA</h3>
       <p>Advancing research into future-oriented methods for energy and transport technologies.</p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project2')">Learn More</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project2')">+</a>
     </div>
     <div class="project-details">
       <h3>Sep 2021- Jan 2025 </h3>
       <p>
         I completed my PhD at the University of Bath, collaborating with University College London and Paul Scherrer Institut. We developed LCA methods to project the future environmental impacts of batteries, energy systems, and electric vehicles, publishing articles in world-class journals and renowned international conferences.
       </p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project2')">Close</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project2')">-</a>
     </div>
   </div>
 
@@ -132,14 +132,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="card-content">
       <h3>Lithium-ion batteries</h3>
       <p> LCA of lithium-ion battery manufacturing for EU regulations. </p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project3')">Learn More</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project3')">+</a>
     </div>
     <div class="project-details">
       <h3>Jan 2024 - May 2024</h3>
       <p>
         I worked as a consultant of Benchmark Mineral Intelligence with their sustainability division to deliver an LCA for a global battery manufacturer in anticipation of upcoming EU batteries regulation.
       </p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project3')">Close</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project3')">-</a>
     </div>
   </div>
 
@@ -149,14 +149,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="card-content">
       <h3>Software Advisory</h3>
       <p>Decarbonising construction by LCA automation and environmental product declarations</p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project4')">Learn More</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project4')">+</a>
     </div>
     <div class="project-details">
       <h3>Jan 2024 - Aug 2025</h3>
       <p>
         I helped advise the development of a start-up Pathways on LCA principles and methodology, for deploying an automated and integrated software for construction product impacts and environmental product declaration generation.
       </p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project4')">Close</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project4')">-</a>
     </div>
   </div>
 
@@ -166,14 +166,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="card-content">
       <h3>UK's Seventh Carbon Budget</h3>
       <p>Advising the UK government on industry and waste greenhouse gas emissions</p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project5')">Learn More</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project5')">+</a>
     </div>
     <div class="project-details">
       <h3>Feb 2024 - Apr 2024 </h3>
       <p>
         I completed a policy fellowship with the UK's Climate Change Committee, contributing to the Seventh Carbon Budget on decarbonising industry and waste systems.
       </p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project5')">Close</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project5')">-</a>
     </div>
   </div>
 
@@ -183,14 +183,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="card-content">
       <h3>Critical Review of Packaging</h3>
       <p>Panel reviewer of Anthesis for consumer goods packaging products</p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project6')">Learn More</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project6')">+</a>
     </div>
     <div class="project-details">
       <h3>Feb 2024 - Sep 2024</h3>
       <p>
         I conduct critical reviews for Anthesis LCA projects which have focussed on packaging materials and consumer goods.
       </p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project6')">Close</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project6')">-</a>
     </div>
   </div>
 
@@ -200,14 +200,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="card-content">
       <h3>Carbon Certification Methods</h3>
       <p>Advisory on LCA methodology for certification development.</p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project7')">Learn More</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project7')">+</a>
     </div>
     <div class="project-details">
       <h3>May 2022</h3>
       <p>
         I advised and reviewed Eight Versa's proposals for a carbon certification scheme using LCA methodology.
       </p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project7')">Close</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project7')">-</a>
     </div>
   </div>
 
@@ -217,14 +217,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="card-content">
       <h3>Software Advisory</h3>
       <p>Accessible LCA using AI</p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project8')">Learn More</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project8')">+</a>
     </div>
     <div class="project-details">
       <h3>Jun 2024 - Sep 2024</h3>
       <p>
         I advised and reviewed LCA software developed by CarbonGraph that makes LCA accessible driven by AI.
       </p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project8')">Close</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project8')">-</a>
     </div>
   </div>
 
@@ -234,14 +234,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="card-content">
       <h3>Zero Carbon Construction Policy</h3>
       <p>Local policy investigation into decarbonising construction</p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project9')">Learn More</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project9')">+</a>
     </div>
     <div class="project-details">
       <h3>Jan 2023 - Sep 2023</h3>
       <p>
         I worked as a leading researcher with University of Bath team to investigate the effectiveness of zero carbon construction policy for the Bath & Northeast Somerset Council.
       </p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project9')">Close</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project9')">-</a>
     </div>
   </div>
 
@@ -251,14 +251,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="card-content">
       <h3>Produce Carbon Calculator</h3>
       <p>LCA tool for organic broccoli production and transport scenarios.</p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project10')">Learn More</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project10')">+</a>
     </div>
     <div class="project-details">
       <h3>May 2024 - Sept 2024</h3>
       <p>
       For consultancy project with Razbio, I developed a simple and accessible sheet-based LCA tool to estimate the carbon footprint of organic broccoli production vs. commercial methods.
       </p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project10')">Close</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project10')">-</a>
     </div>
   </div>
 
@@ -268,14 +268,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="card-content">
       <h3>Garment Products</h3>
       <p>LCA of t-shirts, vests, and cycling jerseys.</p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project11')">Learn More</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project11')">+</a>
     </div>
     <div class="project-details">
       <h3>Jun 2022 - Dec 2022</h3>
       <p>
         Consulting for Rocket Charities and Earthly, I conducted a cradle-to-grave ISO-based LCA of garment products such as t-shirts, vests, and cycling jerseys.
       </p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project11')">Close</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project11')">-</a>
     </div>
   </div>
 
@@ -285,14 +285,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="card-content">
       <h3>Skincare Products</h3>
       <p>LCA of medical skincare products and circular economy strategies</p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project12')">Learn More</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project12')">+</a>
     </div>
     <div class="project-details">
       <h3>Jan 2022 - Jun 2022</h3>
       <p>
         In consultation with Nursem, I delivered a cradle-to-gave ISO-based LCA of several skin care products including scenarios for circular economy strategies such as refill and reuse packaging.
       </p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project12')">Close</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project12')">-</a>
     </div>
   </div>
 
@@ -302,14 +302,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="card-content">
       <h3>Carbon Calculator</h3>
       <p>Advisory and review of carbon footprint calculator.</p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project13')">Learn More</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project13')">+</a>
     </div>
     <div class="project-details">
       <h3>May 2022</h3>
       <p>
         I consulted with ReLondon to review and feedback on their existing product carbon footprint calculator.
       </p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project13')">Close</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project13')">-</a>
     </div>
   </div>
 
@@ -319,14 +319,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="card-content">
       <h3>Reusable Wine Packaging</h3>
       <p>Project proposal for implementing a reuse packaging supply-chain</p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project14')">Learn More</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project14')">+</a>
     </div>
     <div class="project-details">
       <h3>Jan 2021 - Jun 2021</h3>
       <p>
         As part of the "From Linear to Circular Programme 2021" run by the Ellen MacArthur Foundation, I led a consulting team for Garcon Wines to propose supply-chain for reusable wine packaging.
       </p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project14')">Close</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project14')">-</a>
     </div>
   </div>
 
@@ -343,7 +343,7 @@ nav_order: 2  # Adjust this to place the page in the desired order
       <p>
         As part of my MSc dissertation at UCL, I conducted an LCA of biofertilizer products from Project NOMAD - An EU Horizon 2020 funded project.
       </p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project15')">Close</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project15')">-</a>
     </div>
   </div>
 

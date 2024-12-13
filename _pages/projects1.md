@@ -336,7 +336,7 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="card-content">
       <h3>Biofertilizer Products</h3>
       <p>LCA of biofertilizer products based on EU circular bioeconomy technologies.</p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project15')">Learn More</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project15')">+</a>
     </div>
     <div class="project-details">
       <h3>May 2020 - Sep 2020</h3>

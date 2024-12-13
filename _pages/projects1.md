@@ -196,9 +196,9 @@ nav_order: 2  # Adjust this to place the page in the desired order
 
   <!-- Project 7 -->
   <div class="project-card" id="project7">
-    <img src="/assets/img/project7.jpg" alt="Project 7">
+    <img src="/assets/img/p_eightversa.jpg" alt="Project 7">
     <div class="card-content">
-      <h3>Project 7</h3>
+      <h3>LCA Certification Advisory</h3>
       <p>A brief description of Project 7 goes here.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project7')">Learn More</a>
     </div>

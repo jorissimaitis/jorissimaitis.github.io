@@ -252,14 +252,14 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="card-content">
       <h3>Produce Carbon Calculator</h3>
       <p>A brief description of Project 9 goes here.</p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project9')">Learn More</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project10')">Learn More</a>
     </div>
     <div class="project-details">
       <h3>Project 9</h3>
       <p>
         A deep dive into sustainable practices in agriculture, focusing on methods that reduce environmental impact while maintaining productivity and profitability for farmers.
       </p>
-      <a href="javascript:void(0);" onclick="toggleDetails('project9')">Close</a>
+      <a href="javascript:void(0);" onclick="toggleDetails('project10')">Close</a>
     </div>
   </div>
 </div>

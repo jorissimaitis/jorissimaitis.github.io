@@ -43,6 +43,7 @@ nav_order: 3  # Adjust this to place the page in the desired order
 </div>
 
 <style>
+  /* Container layout */
   .about-container {
     display: flex;
     flex-wrap: wrap;
@@ -50,39 +51,51 @@ nav_order: 3  # Adjust this to place the page in the desired order
     margin-top: 20px;
   }
 
+  /* Profile photo styles */
   .profile-photo {
     flex: 0 0 auto;
     margin-right: 20px;
     margin-bottom: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
 
   .profile-photo img {
-    max-width: 300px; /* Set a reasonable maximum width */
-    height: auto; /* Maintain the aspect ratio */
-    display: block; /* Remove inline spacing issues */
+    max-width: 300px;
+    height: auto;
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover effects */
   }
 
+  .profile-photo img:hover {
+    transform: scale(1.05); /* Slight expansion */
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.3); /* Stronger shadow on hover */
+  }
+
+  /* Text container styles */
   .about-text {
     flex: 1;
-    min-width: 300px; /* Prevent text from squishing too much on narrow screens */
+    min-width: 300px;
   }
 
+  /* Timeline container */
   .timeline {
     margin-top: 40px;
     display: flex;
     flex-direction: column;
   }
 
+  /* Milestone styles */
   .milestone {
     background-color: #f9f9f9;
-    border-left: 3px solid #0073e6;
+    border-left: 3px solid #d4af37; /* Gold color for border */
     padding: 10px 20px;
     margin-bottom: 20px;
   }
 
   .milestone h3 {
     margin: 0;
-    color: #0073e6;
+    color: #d4af37; /* Gold color for headings */
   }
 
   .milestone p {

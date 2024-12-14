@@ -18,6 +18,22 @@ latest_posts: false
 
 <p style="font-size: 1.2rem;">Tailored solutions to measure and minimise the environmental impacts of products and services across their entire life cycle.</p>
 
+<!-- Metrics Section -->
+<div class="metrics-section">
+  <div class="metric">
+    <h3>5</h3>
+    <p>LCAs Completed</p>
+  </div>
+  <div class="metric">
+    <h3>5</h3>
+    <p>Critical Reviews</p>
+  </div>
+  <div class="metric">
+    <h3>10</h3>
+    <p>Organizations</p>
+  </div>
+</div>
+
 <div class="expertise-boxes">
   <div class="box" id="lca">
     <a href="/services">
@@ -64,7 +80,42 @@ latest_posts: false
 <style>
 /* Styling the subtitle */
 .custom-subtitle {
-  color: #B8860B;  /* Example color (blue) #4A90E2 */
+  color: #B8860B;  /* Example color (gold) */
+}
+
+/* Metrics Section Styling */
+.metrics-section {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 0; /* Add some space above and below */
+  text-align: center;
+}
+
+.metrics-section .metric {
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  padding: 20px;
+  flex: 1;
+  margin: 0 10px; /* Space between columns */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.metrics-section .metric:hover {
+  transform: scale(1.05);
+  box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+.metrics-section .metric h3 {
+  margin: 0;
+  font-size: 2rem; /* Larger number */
+  color: #B8860B; /* Gold color */
+}
+
+.metrics-section .metric p {
+  margin: 5px 0 0;
+  font-size: 1rem;
+  color: #333;
 }
 
 /* Styling the boxes */
@@ -134,3 +185,4 @@ latest_posts: false
     transform: translateX(-250%);  /* End off-screen */
   }
 }
+</style>

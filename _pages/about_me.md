@@ -23,8 +23,8 @@ nav_order: 3  # Adjust this to place the page in the desired order
 
 <div class="timeline">
   <div class="milestone">
-    <h3>2010 - Founding</h3>
-    <p>We started with a vision to promote sustainability through comprehensive Life Cycle Assessments.</p>
+    <h3>2025 - Senior Sustainability Consultant, Minviro</h3>
+    <p>Joined a leading LCA company to help deliver sustainability to world-leading organisations</p>
   </div>
   <div class="milestone">
     <h3>2012 - ISO Certification</h3>

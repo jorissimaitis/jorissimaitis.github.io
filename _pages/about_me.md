@@ -45,23 +45,26 @@ nav_order: 3  # Adjust this to place the page in the desired order
 <style>
   .about-container {
     display: flex;
+    flex-wrap: wrap;
     align-items: flex-start;
     margin-top: 20px;
   }
 
   .profile-photo {
-    flex: 0 0 auto; /* Allows the image to take up as much space as needed */
+    flex: 0 0 auto;
     margin-right: 20px;
+    margin-bottom: 20px;
   }
 
   .profile-photo img {
-    max-width: 100%; /* Ensures the image does not exceed its container width */
-    height: auto; /* Maintains the image's original aspect ratio */
-    display: block; /* Removes extra padding or margin caused by inline images */
+    max-width: 300px; /* Set a reasonable maximum width */
+    height: auto; /* Maintain the aspect ratio */
+    display: block; /* Remove inline spacing issues */
   }
 
   .about-text {
     flex: 1;
+    min-width: 300px; /* Prevent text from squishing too much on narrow screens */
   }
 
   .timeline {

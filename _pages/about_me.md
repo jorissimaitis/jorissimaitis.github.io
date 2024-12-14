@@ -16,6 +16,8 @@ nav_order: 3  # Adjust this to place the page in the desired order
     <p>I have over 5 years of experience conducting LCA, carbon, and sustainability projects. Currently, I’m a Senior Sustainability Consultant at Minviro, partnering with global companies to build sustainable supply chains for raw materials and energy technologies. I also provide independent consulting on LCA, critical reviews, and advisory, being an accredited practitioner of the Institute of Environmental Management (PIEMA) and Society for the Environment (REnvP).</p>
 
     <p>With a PhD from the University of Bath, my research on LCA for future transport and energy systems has been published in leading journals and presented internationally. I’ve also contributed to policy initiatives, including the UK’s Seventh Carbon Budget with the Climate Change Committee and the Zero Carbon Construction Policy for Bath & Northeast Somerset.</p>
+
+    <p>In my spare time, I love sports, trekking, outdoors, mindfulness, and following a plant-based lifestyle. My personal achievements is having completed the Everest Base Camp trek, an Iron Man, and a 50k ultramarathon.</p>
   </div>
 </div>
 

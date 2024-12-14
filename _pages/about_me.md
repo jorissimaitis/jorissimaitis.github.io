@@ -50,13 +50,14 @@ nav_order: 3  # Adjust this to place the page in the desired order
   }
 
   .profile-photo {
-    flex: 0 0 150px;
+    flex: 0 0 auto; /* Allows the image to take up as much space as needed */
     margin-right: 20px;
   }
 
   .profile-photo img {
-    max-width: 150px;
-    border-radius: 50%;
+    max-width: 100%; /* Ensures the image does not exceed its container width */
+    height: auto; /* Maintains the image's original aspect ratio */
+    display: block; /* Removes extra padding or margin caused by inline images */
   }
 
   .about-text {

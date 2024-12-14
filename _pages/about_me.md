@@ -6,23 +6,18 @@ nav: true
 nav_order: 3  # Adjust this to place the page in the desired order
 ---
 
-<h2>Life Cycle Assessment</h2>
-<p>
-  Life Cycle Assessment (LCA) is a comprehensive method to evaluate the environmental impacts of products and services across their entire life cycle—from raw material extraction, manufacturing, distribution, use, to disposal or recycling. We provide tailored LCA solutions to help organizations minimize their environmental footprint and achieve sustainability goals.
-</p>
+<div class="about-container">
+  <div class="profile-photo">
+    <img src="/assets/img/about_me.jpg" alt="Your Name" />
+  </div>
+  <div class="about-text">
+    <p>My ambition is to help realise an environmentally sustainable, socially just, and economically thriving society. I was introduced to life cycle assessment (LCA) in 2020 during my MSc at UCL and I believe LCA is a powerful tool to measure environmental impacts and form tangible sustainability strategies.</p>
 
-<h2>Critical Review</h2>
-<p>
-  Critical Review is an independent and objective evaluation of LCA studies to ensure they meet ISO standards and accurately reflect the product or service's environmental impacts. Our expert team offers critical review services to enhance the credibility and reliability of your LCA results.
-</p>
+    <p>I have over 5 years of experience conducting LCA, carbon, and sustainability projects. Currently, I’m a Senior Sustainability Consultant at Minviro, partnering with global companies to build sustainable supply chains for raw materials and energy technologies. I also provide independent consulting on LCA, critical reviews, and advisory, being an accredited practitioner of the Institute of Environmental Management (PIEMA) and Society for the Environment (REnvP).</p>
 
-<h2>Advisory</h2>
-<p>
-  Our advisory services are designed to guide organizations in making informed decisions on sustainability. Whether you're looking to reduce your environmental impacts, improve efficiency, or navigate environmental regulations, we provide expert advice tailored to your business's needs.
-</p>
-
-<h2>Career Milestones</h2>
-<p>Here's an overview of key milestones and achievements in our journey:</p>
+    <p>With a PhD from the University of Bath, my research on LCA for future transport and energy systems has been published in leading journals and presented internationally. I’ve also contributed to policy initiatives, including the UK’s Seventh Carbon Budget with the Climate Change Committee and the Zero Carbon Construction Policy for Bath & Northeast Somerset.</p>
+  </div>
+</div>
 
 <div class="timeline">
   <div class="milestone">
@@ -48,8 +43,28 @@ nav_order: 3  # Adjust this to place the page in the desired order
 </div>
 
 <style>
-  .timeline {
+  .about-container {
+    display: flex;
+    align-items: flex-start;
     margin-top: 20px;
+  }
+
+  .profile-photo {
+    flex: 0 0 150px;
+    margin-right: 20px;
+  }
+
+  .profile-photo img {
+    max-width: 150px;
+    border-radius: 50%;
+  }
+
+  .about-text {
+    flex: 1;
+  }
+
+  .timeline {
+    margin-top: 40px;
     display: flex;
     flex-direction: column;
   }

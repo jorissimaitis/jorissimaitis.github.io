@@ -27,8 +27,8 @@ nav_order: 3  # Adjust this to place the page in the desired order
     <p>Joined a leading LCA company to help deliver sustainability to world-leading organisations</p>
   </div>
   <div class="milestone">
-    <h3>2012 - ISO Certification</h3>
-    <p>Achieved ISO 14001 certification, marking a key milestone in our commitment to environmental management.</p>
+    <h3>2024 - Awarded PhD, University of Bath </h3>
+    <p>Completed and defended my thesis in advanced LCA methods</p>
   </div>
   <div class="milestone">
     <h3>2015 - Expansion of Advisory Services</h3>

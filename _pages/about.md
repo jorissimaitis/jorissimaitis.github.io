@@ -64,12 +64,12 @@ latest_posts: false
 <!-- Metrics Section -->
 <div class="metrics-section">
   <div class="metric">
-    <h3>A</h3>
-    <p>First Metric Description</p>
+    <h3>+15</h3>
+    <p>Projects Delivered</p>
   </div>
   <div class="metric">
-    <h3>B</h3>
-    <p>Second Metric Description</p>
+    <h3>+20</h3>
+    <p>Partners</p>
   </div>
 </div>
 

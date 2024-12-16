@@ -183,7 +183,7 @@ latest_posts: false
     transform: translateX(30%);  /* Start off-screen */
   }
   100% {
-    transform: translateX(-250%);  /* End off-screen */
+    transform: translateX(-300%);  /* End off-screen */
   }
 }
 </style>

@@ -48,55 +48,65 @@ nav_order: 4  # Adjust this to place the page in the desired order
 </div>
 
 <style>
+  /* Container for the news cards */
   .news-cards {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Responsive two cards per row */
-    gap: 20px;
+    grid-template-columns: repeat(2, 1fr); /* Ensures two cards per row */
+    gap: 20px; /* Space between cards */
     margin-top: 20px;
   }
 
+  /* Individual card styling */
   .card {
     background-color: #ffffff;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
     overflow: hidden;
     text-align: center;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover animation */
   }
 
   .card img {
     width: 100%;
     height: 150px;
-    object-fit: cover;
-    border-bottom: 2px solid #0073e6; /* Accent color for image */
+    object-fit: cover; /* Ensures image fills the space while maintaining aspect ratio */
+    border-bottom: 3px solid #b8860b; /* Gold accent border below image */
   }
 
   .card h3 {
     font-size: 1.2rem;
     margin: 10px 0;
-    color: #0073e6;
+    color: #b8860b; /* Gold color for headings */
   }
 
   .card p {
     font-size: 0.9rem;
-    color: #333;
+    color: #333; /* Neutral text for description */
     margin: 10px 15px;
   }
 
   .card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px); /* Slight lift on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Stronger shadow on hover */
   }
 
+  /* Read more link styling */
   .read-more {
     text-decoration: none;
-    color: #0073e6;
+    color: #b8860b; /* Gold color for links */
     font-weight: bold;
     margin-bottom: 10px;
     display: inline-block;
   }
 
   .read-more:hover {
-    text-decoration: underline;
+    text-decoration: underline; /* Underline effect on hover */
+  }
+
+  /* Mobile responsiveness */
+  @media (max-width: 768px) {
+    .news-cards {
+      grid-template-columns: 1fr; /* One card per row on smaller screens */
+    }
   }
 </style>

@@ -64,11 +64,11 @@ latest_posts: false
 <!-- Metrics Section -->
 <div class="metrics-section">
   <div class="metric">
-    <h3>+15</h3>
+    <h3>15</h3>
     <p>Projects Delivered</p>
   </div>
   <div class="metric">
-    <h3>+20</h3>
+    <h3>21</h3>
     <p>Partners</p>
   </div>
 </div>

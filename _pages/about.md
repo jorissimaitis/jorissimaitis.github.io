@@ -18,22 +18,6 @@ latest_posts: false
 
 <p style="font-size: 1.2rem;">Tailored solutions to measure and minimise the environmental impacts of products and services across their entire life cycle.</p>
 
-<!-- Metrics Section -->
-<div class="metrics-section">
-  <div class="metric">
-    <h3>5</h3>
-    <p>LCAs Completed</p>
-  </div>
-  <div class="metric">
-    <h3>5</h3>
-    <p>Critical Reviews</p>
-  </div>
-  <div class="metric">
-    <h3>10</h3>
-    <p>Organizations</p>
-  </div>
-</div>
-
 <div class="expertise-boxes">
   <div class="box" id="lca">
     <a href="/services">
@@ -76,6 +60,23 @@ latest_posts: false
     <img src="logo_banes.png" alt="Banes" />
   </div>
 </div>
+
+<!-- Metrics Section -->
+<div class="metrics-section">
+  <div class="metric">
+    <h3>5</h3>
+    <p>LCAs Completed</p>
+  </div>
+  <div class="metric">
+    <h3>5</h3>
+    <p>Critical Reviews</p>
+  </div>
+  <div class="metric">
+    <h3>10</h3>
+    <p>Organizations</p>
+  </div>
+</div>
+
 
 <style>
 /* Styling the subtitle */

@@ -11,14 +11,16 @@ nav_order: 4  # Adjust this to place the page in the desired order
 
 <div class="news-cards">
   <div class="card">
+    <img src="/assets/img/lca_action.jpg" alt="Life Cycle Assessment in Action" />
     <h3>Life Cycle Assessment in Action</h3>
     <p>
-      Discover how Life Cycle Assessment is helping industries reduce their environmental impact, optimize production processes, and achieve sustainability goals. 
+      Discover how Life Cycle Assessment is helping industries reduce their environmental impact, optimize production processes, and achieve sustainability goals.
     </p>
     <a href="/news/lca-in-action" class="read-more">Read More</a>
   </div>
 
   <div class="card">
+    <img src="/assets/img/critical_review.jpg" alt="Critical Review Services Expanded" />
     <h3>Critical Review Services Expanded</h3>
     <p>
       Our Critical Review services now offer more comprehensive evaluations for large-scale projects, ensuring higher credibility for LCA studies.
@@ -27,6 +29,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
   </div>
 
   <div class="card">
+    <img src="/assets/img/sustainability_strategy.jpg" alt="Sustainability Strategy Advisory" />
     <h3>New Advisory Offering: Sustainability Strategy</h3>
     <p>
       We’ve launched a new advisory service to help companies build actionable sustainability strategies, from risk assessments to regulatory compliance.
@@ -35,6 +38,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
   </div>
 
   <div class="card">
+    <img src="/assets/img/global_expansion.jpg" alt="Global Expansion" />
     <h3>Our Global Expansion</h3>
     <p>
       We are expanding our services globally with new partnerships in Europe and Asia, furthering our mission to help businesses worldwide achieve sustainability.
@@ -45,10 +49,9 @@ nav_order: 4  # Adjust this to place the page in the desired order
 
 <style>
   .news-cards {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Responsive two cards per row */
     gap: 20px;
-    justify-content: center;
     margin-top: 20px;
   }
 
@@ -56,10 +59,28 @@ nav_order: 4  # Adjust this to place the page in the desired order
     background-color: #ffffff;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    width: 250px;
-    padding: 15px;
+    overflow: hidden;
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-bottom: 2px solid #0073e6; /* Accent color for image */
+  }
+
+  .card h3 {
+    font-size: 1.2rem;
+    margin: 10px 0;
+    color: #0073e6;
+  }
+
+  .card p {
+    font-size: 0.9rem;
+    color: #333;
+    margin: 10px 15px;
   }
 
   .card:hover {
@@ -67,22 +88,12 @@ nav_order: 4  # Adjust this to place the page in the desired order
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
   }
 
-  .card h3 {
-    font-size: 1.2rem;
-    margin-bottom: 10px;
-    color: #0073e6;
-  }
-
-  .card p {
-    font-size: 0.9rem;
-    color: #333;
-    margin-bottom: 15px;
-  }
-
   .read-more {
     text-decoration: none;
     color: #0073e6;
     font-weight: bold;
+    margin-bottom: 10px;
+    display: inline-block;
   }
 
   .read-more:hover {

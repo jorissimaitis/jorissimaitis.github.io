@@ -47,13 +47,34 @@ nav_order: 3  # Adjust this to place the page in the desired order
     <p>Obtained accreditation in environmental management, sustainability practices, and leading organizational sustainability initiatives.</p>
   </div>
   <div class="milestone">
-    <h3>2023 - Three Minute Thesis Finalist, University of Bath</h3>
-    <p>Selected finalist showcasing the ability to effectively communicate complex research to a broad audience.</p>
-  </div>
-  <div class="milestone">
     <h3>2022 - Advanced LCA Training, Départ de Sentier</h3>
     <p>Training in interpreting, modifying, and forecasting life cycle inventory datasets using the Brightway LCA framework.</p>
   </div>
+  <div class="milestone">
+    <h3>2021 - LCA Consulting, Freelance</h3>
+    <p>Obtained first projects to start freelance consulting.</p>
+  </div>
+  <div class="milestone">
+    <h3>2021 - Training in EV Batteries and End-of-life, HSSMI</h3>
+    <p>End-of-life strategies and lifecycle management of lithium-ion EV batteries.</p>
+  </div>
+    <div class="milestone">
+    <h3>2020 - LCA Analyst, Project NOMAD</h3>
+    <p>First LCA project as part of MSc dissertation at UCL on biofertilisers</p>
+  </div>
+    <div class="milestone">
+    <h3>2020 - MSc Engineering for International Development, UCL</h3>
+    <p>Distinction (86%), dissertation title “Life cycle assessment of biofertiliser from novel digestate treatment value-chains”.</p>
+  </div>
+    <div class="milestone">
+    <h3>2019 - Poole Prize, UCL</h3>
+    <p>Awarded for the most distinguished work in Physical Chemistry at UCL.</p>
+  </div>
+    <div class="milestone">
+    <h3>2019 - MSci Chemistry, UCL</h3>
+    <p>First-class honours (74%), dissertation title “Activating the edge of graphene: novel access to edge-carboxylated graphene nanoflakes and activating the edge-anhydride for chemical functionalisation and heavy-metal extraction”.</p>
+  </div>
+  
 </div>
 
 <style>

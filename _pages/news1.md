@@ -11,7 +11,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
 
 <div class="news-cards">
   <div class="card">
-    <img src="/assets/img/lca_action.jpg" alt="Life Cycle Assessment in Action" />
+    <img src="/assets/img/1.jpg" alt="Life Cycle Assessment in Action" />
     <h3>Life Cycle Assessment in Action</h3>
     <p>
       Discover how Life Cycle Assessment is helping industries reduce their environmental impact, optimize production processes, and achieve sustainability goals.
@@ -20,7 +20,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
   </div>
 
   <div class="card">
-    <img src="/assets/img/critical_review.jpg" alt="Critical Review Services Expanded" />
+    <img src="/assets/img/2.jpg" alt="Critical Review Services Expanded" />
     <h3>Critical Review Services Expanded</h3>
     <p>
       Our Critical Review services now offer more comprehensive evaluations for large-scale projects, ensuring higher credibility for LCA studies.
@@ -29,7 +29,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
   </div>
 
   <div class="card">
-    <img src="/assets/img/sustainability_strategy.jpg" alt="Sustainability Strategy Advisory" />
+    <img src="/assets/img/3.jpg" alt="Sustainability Strategy Advisory" />
     <h3>New Advisory Offering: Sustainability Strategy</h3>
     <p>
       We’ve launched a new advisory service to help companies build actionable sustainability strategies, from risk assessments to regulatory compliance.
@@ -38,7 +38,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
   </div>
 
   <div class="card">
-    <img src="/assets/img/global_expansion.jpg" alt="Global Expansion" />
+    <img src="/assets/img/4.jpg" alt="Global Expansion" />
     <h3>Our Global Expansion</h3>
     <p>
       We are expanding our services globally with new partnerships in Europe and Asia, furthering our mission to help businesses worldwide achieve sustainability.

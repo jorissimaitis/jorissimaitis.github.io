@@ -105,7 +105,6 @@ latest_posts: false
   font-size: 1rem;
   color: #333; /* Neutral text color */
 }
-</style>
 
 /* Styling the boxes */
 .expertise-boxes {

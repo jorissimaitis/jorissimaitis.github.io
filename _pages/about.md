@@ -96,7 +96,7 @@ latest_posts: false
 
 .metrics-section .metric h3 {
   margin: 0;
-  font-size: 2.0rem; /* Slightly smaller than before */
+  font-size: 2.5rem; /* Slightly smaller than before */
   color: #B8860B; /* Gold color for emphasis */
 }
 

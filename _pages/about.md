@@ -64,16 +64,12 @@ latest_posts: false
 <!-- Metrics Section -->
 <div class="metrics-section">
   <div class="metric">
-    <h3>5</h3>
-    <p>LCAs Completed</p>
+    <h3>A</h3>
+    <p>First Metric Description</p>
   </div>
   <div class="metric">
-    <h3>5</h3>
-    <p>Critical Reviews</p>
-  </div>
-  <div class="metric">
-    <h3>10</h3>
-    <p>Organizations</p>
+    <h3>B</h3>
+    <p>Second Metric Description</p>
   </div>
 </div>
 
@@ -85,39 +81,31 @@ latest_posts: false
 }
 
 /* Metrics Section Styling */
+/* Metrics Section Styling */
 .metrics-section {
-  display: flex;
-  justify-content: space-between;
-  margin: 30px 0; /* Add some space above and below */
+  display: flex; /* Keep metrics horizontally aligned */
+  justify-content: space-around; /* Spread the metrics evenly */
+  margin: 20px 0; /* Add space above and below */
   text-align: center;
 }
 
 .metrics-section .metric {
-  background-color: #f5f5f5;
-  border-radius: 8px;
-  padding: 20px;
-  flex: 1;
-  margin: 0 10px; /* Space between columns */
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.metrics-section .metric:hover {
-  transform: scale(1.05);
-  box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+  flex: 1; /* Ensure both metrics take equal width */
+  margin: 0 10px; /* Space between metrics */
 }
 
 .metrics-section .metric h3 {
   margin: 0;
-  font-size: 2rem; /* Larger number */
-  color: #B8860B; /* Gold color */
+  font-size: 1.8rem; /* Slightly smaller than before */
+  color: #B8860B; /* Gold color for emphasis */
 }
 
 .metrics-section .metric p {
   margin: 5px 0 0;
   font-size: 1rem;
-  color: #333;
+  color: #333; /* Neutral text color */
 }
+</style>
 
 /* Styling the boxes */
 .expertise-boxes {

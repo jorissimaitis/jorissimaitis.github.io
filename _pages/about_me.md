@@ -17,7 +17,9 @@ nav_order: 3  # Adjust this to place the page in the desired order
 
     <p>With a PhD from the University of Bath, my research on LCA for future transport and energy systems has been published in leading journals and presented internationally. I’ve also contributed to policy initiatives, including the UK’s Seventh Carbon Budget with the Climate Change Committee and the Zero Carbon Construction Policy for Bath & Northeast Somerset.</p>
 
-    <p>In my spare time, I love sports, trekking, outdoors, mindfulness, and following a plant-based lifestyle. My personal achievements is having completed the Everest Base Camp trek, an Iron Man, a 50k ultramarathon, and even having started a non-profit organisation in media representation for charities</p>
+    <p>In my spare time, I love sports, trekking, outdoors, mindfulness, and following a plant-based lifestyle. My personal achievements is having completed the Everest Base Camp trek, an Iron Man, a 50k ultramarathon, and even having started a non-profit organisation in media representation for charities.</p>
+
+    <p>Below is a list of some career highlights.</p>
   </div>
 </div>
 

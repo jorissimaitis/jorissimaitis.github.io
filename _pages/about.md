@@ -81,11 +81,11 @@ latest_posts: false
 }
 
 /* Metrics Section Styling */
-/* Metrics Section Styling */
 .metrics-section {
   display: flex; /* Keep metrics horizontally aligned */
   justify-content: space-around; /* Spread the metrics evenly */
-  margin: 20px 0; /* Add space above and below */
+  margin-top: 40px; /* Add more space above the metrics */
+  margin-bottom: 20px; /* Add more space below if needed */
   text-align: center;
 }
 
@@ -98,12 +98,14 @@ latest_posts: false
   margin: 0;
   font-size: 2.5rem; /* Slightly smaller than before */
   color: #B8860B; /* Gold color for emphasis */
+  font-weight: bold; /* Make the number bold */
 }
 
 .metrics-section .metric p {
   margin: 5px 0 0;
   font-size: 1.5rem;
   color: #333; /* Neutral text color */
+  font-weight: 600; /* Make the description semibold */
 }
 
 /* Styling the boxes */

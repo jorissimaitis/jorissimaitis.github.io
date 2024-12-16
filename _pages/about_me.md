@@ -98,10 +98,13 @@ nav_order: 3  # Adjust this to place the page in the desired order
   .milestone h3 {
     margin: 0;
     color: #d4af37; /* Gold color for headings */
+    font-size: 1.1rem; /* Slightly smaller font size for the heading */
+    font-weight: 600; /* Semi-bold for the heading */
   }
 
   .milestone p {
     margin: 5px 0 0;
-    font-size: 1rem;
+    font-size: 0.9rem; /* Slightly smaller font size for the paragraph */
+    font-weight: 600; /* Semi-bold for the paragraph */
   }
 </style>

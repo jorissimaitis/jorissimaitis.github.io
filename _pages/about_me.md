@@ -24,11 +24,11 @@ nav_order: 3  # Adjust this to place the page in the desired order
 <div class="timeline">
   <div class="milestone">
     <h3>2025 - Senior Sustainability Consultant, Minviro</h3>
-    <p>Joined a leading LCA company to help deliver sustainability to world-leading organisations</p>
+    <p>Joined a leading LCA company to help deliver sustainability to world-leading organisations.</p>
   </div>
   <div class="milestone">
     <h3>2025 - Awarded PhD, University of Bath </h3>
-    <p>Completed and defended my thesis in advanced LCA methods</p>
+    <p>Completed and defended my thesis in advanced LCA methods.</p>
   </div>
   <div class="milestone">
     <h3>2024 - Policy Fellowship, UK Climate Change Committee</h3>
@@ -36,15 +36,23 @@ nav_order: 3  # Adjust this to place the page in the desired order
   </div>
   <div class="milestone">
     <h3>2023 - Lead Policy Researcher, B&NES </h3>
-    <p>Completed research project on local council zero carbon construction policy</p>
+    <p>Completed research project on local council zero carbon construction policy.</p>
   </div>
   <div class="milestone">
     <h3>2023 - IEMA Cerified Carbon Management, GEP Environmental</h3>
-    <p>Completed training in prganisational carbon footprint methods, reporting, and management</p>
+    <p>Completed training in prganisational carbon footprint methods, reporting, and management.</p>
   </div>
-    <div class="milestone">
+  <div class="milestone">
     <h3>2023 - Practinioner Accreditation, PIEMA REnvP</h3>
-    <p>Obtained accreditation in environmental management, sustainability practices, and leading organizational sustainability initiatives.t</p>
+    <p>Obtained accreditation in environmental management, sustainability practices, and leading organizational sustainability initiatives.</p>
+  </div>
+  <div class="milestone">
+    <h3>2023 - Three Minute Thesis Finalist, University of Bath</h3>
+    <p>Selected finalist showcasing the ability to effectively communicate complex research to a broad audience.</p>
+  </div>
+  <div class="milestone">
+    <h3>2022 - Advanced LCA Training, Départ de Sentier</h3>
+    <p>Training in interpreting, modifying, and forecasting life cycle inventory datasets using the Brightway LCA framework.</p>
   </div>
 </div>
 

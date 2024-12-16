@@ -31,8 +31,8 @@ nav_order: 3  # Adjust this to place the page in the desired order
     <p>Completed and defended my thesis in advanced LCA methods</p>
   </div>
   <div class="milestone">
-    <h3>2015 - Expansion of Advisory Services</h3>
-    <p>Launched a new advisory service, offering tailored solutions for businesses aiming for sustainable growth.</p>
+    <h3>2024 - Policy Fellowship, UK Climate Change Committee</h3>
+    <p>Contributed to the UK's Seventh Carbon Budget on industry and waste climate mitigation.</p>
   </div>
   <div class="milestone">
     <h3>2018 - Global Recognition</h3>

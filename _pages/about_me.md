@@ -17,7 +17,7 @@ nav_order: 3  # Adjust this to place the page in the desired order
 
     <p>With a PhD from the University of Bath, my research on LCA for future transport and energy systems has been published in leading journals and presented internationally. I’ve also contributed to policy initiatives, including the UK’s Seventh Carbon Budget with the Climate Change Committee and the Zero Carbon Construction Policy for Bath & Northeast Somerset.</p>
 
-    <p>In my spare time, I love sports, trekking, outdoors, mindfulness, and following a plant-based lifestyle. My personal achievements is having completed the Everest Base Camp trek, an Iron Man, and a 50k ultramarathon.</p>
+    <p>In my spare time, I love sports, trekking, outdoors, mindfulness, and following a plant-based lifestyle. My personal achievements is having completed the Everest Base Camp trek, an Iron Man, a 50k ultramarathon, and even having started a non-profit organisation in media representation for charities</p>
   </div>
 </div>
 
@@ -27,7 +27,7 @@ nav_order: 3  # Adjust this to place the page in the desired order
     <p>Joined a leading LCA company to help deliver sustainability to world-leading organisations</p>
   </div>
   <div class="milestone">
-    <h3>2024 - Awarded PhD, University of Bath </h3>
+    <h3>2025 - Awarded PhD, University of Bath </h3>
     <p>Completed and defended my thesis in advanced LCA methods</p>
   </div>
   <div class="milestone">
@@ -35,12 +35,16 @@ nav_order: 3  # Adjust this to place the page in the desired order
     <p>Contributed to the UK's Seventh Carbon Budget on industry and waste climate mitigation.</p>
   </div>
   <div class="milestone">
-    <h3>2018 - Global Recognition</h3>
-    <p>Our LCA services received global recognition, with partnerships in over 15 countries.</p>
+    <h3>2023 - Lead Policy Researcher, B&NES </h3>
+    <p>Completed research project on local council zero carbon construction policy</p>
   </div>
   <div class="milestone">
-    <h3>2022 - Critical Review Accreditation</h3>
-    <p>Accredited as a leading provider of independent Critical Review services in Life Cycle Assessment.</p>
+    <h3>2023 - IEMA Cerified Carbon Management, GEP Environmental</h3>
+    <p>Completed training in prganisational carbon footprint methods, reporting, and management</p>
+  </div>
+    <div class="milestone">
+    <h3>2023 - Practinioner Accreditation, PIEMA REnvP</h3>
+    <p>Obtained accreditation in environmental management, sustainability practices, and leading organizational sustainability initiatives.t</p>
   </div>
 </div>
 

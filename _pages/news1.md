@@ -49,6 +49,17 @@ nav_order: 4  # Adjust this to place the page in the desired order
     </p>
     <a href="/news/global-expansion" class="read-more">+</a>
   </div>
+  
+  <div class="card">
+    <img src="/assets/img/fpc.jpg" alt="Global Expansion" />
+    <h3>Net zero futures in life cycle assessment of passenger cars</h3>
+    <h4>Conference Presentation - Feb 2024</h4> <!-- Subtitle -->
+    <p>
+      Future Propulsion Conference, Solihull, UK.
+    </p>
+    <a href="/news/global-expansion" class="read-more">+</a>
+  </div>
+  
 </div>
 
 <style>

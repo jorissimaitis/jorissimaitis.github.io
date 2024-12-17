@@ -45,6 +45,17 @@ nav_order: 4
 
   <div class="news-item">
     <div class="news-image">
+      <img src="/assets/img/ev.jpg" alt="SETAC Conference" onclick="expandImage(this)" />
+    </div>
+    <div class="news-text">
+      <h3>EU batteries carbon footprint methodology</h3>
+      <h4>Public feedback - April 2024</h4>
+      <p>SETAC Europe 26th LCA Symposium, Gothenburg, Sweden.</p>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-image">
       <img src="/assets/img/fpc.jpg" alt="Net Zero Futures Conference" onclick="expandImage(this)" />
     </div>
     <div class="news-text">

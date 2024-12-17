@@ -67,18 +67,6 @@ nav_order: 4
 
   <div class="news-item">
     <div class="news-image">
-      <img src="/assets/img/banes.jpg" alt="Net Zero Futures Conference" onclick="expandImage(this)" />
-    </div>
-    <div class="news-text">
-      <h3>Pioneering net zero construction policy in Bath & North East Somerset</h3>
-      <h4>Publication - Oct 2023</h4>
-      <p>Future Propulsion Conference, Solihull, UK.</p>
-    </div>
-  </div>
-</div>
-
-  <div class="news-item">
-    <div class="news-image">
       <img src="/assets/img/leiden.jpg" alt="Net Zero Futures Conference" onclick="expandImage(this)" />
     </div>
     <div class="news-text">

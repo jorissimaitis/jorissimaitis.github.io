@@ -31,11 +31,11 @@ nav_order: 4  # Adjust this to place the page in the desired order
   </div>
 
   <div class="card">
-    <img src="/assets/img/3.jpg" alt="Sustainability Strategy Advisory" />
-    <h3>New Advisory Offering: Sustainability Strategy</h3>
-    <h4>Helping Companies Build Actionable Plans</h4> <!-- Subtitle -->
+    <img src="/assets/img/setac.jpg" alt="Sustainability Strategy Advisory" />
+    <h3>Future carbon footprints of passenger cars</h3>
+    <h4>Conference Presentation - Oct 2024</h4> <!-- Subtitle -->
     <p>
-      We’ve launched a new advisory service to help companies build actionable sustainability strategies, from risk assessments to regulatory compliance.
+      SETAC Europe 26th LCA Symposium.
     </p>
     <a href="/news/sustainability-strategy" class="read-more">+</a>
   </div>

@@ -17,7 +17,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
     <p>
       Battery electric vehicles consistently show the lowest carbon footprints among passenger cars now and in the future.
     </p>
-    <a href="/news/lca-in-action" class="read-more">Read More</a>
+    <a href="/news/lca-in-action" class="read-more">+</a>
   </div>
 
   <div class="card">
@@ -27,7 +27,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
     <p>
       Decarbonizing global electricity reduces carbon emissions and pollution but increases resource use and land impacts. Results vary across energy models, highlighting the importance of model choice.
     </p>
-    <a href="/news/critical-review-expanded" class="read-more">Read More</a>
+    <a href="/news/critical-review-expanded" class="read-more">+</a>
   </div>
 
   <div class="card">
@@ -37,7 +37,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
     <p>
       We’ve launched a new advisory service to help companies build actionable sustainability strategies, from risk assessments to regulatory compliance.
     </p>
-    <a href="/news/sustainability-strategy" class="read-more">Read More</a>
+    <a href="/news/sustainability-strategy" class="read-more">+</a>
   </div>
 
   <div class="card">
@@ -47,7 +47,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
     <p>
       We are expanding our services globally with new partnerships in Europe and Asia, furthering our mission to help businesses worldwide achieve sustainability.
     </p>
-    <a href="/news/global-expansion" class="read-more">Read More</a>
+    <a href="/news/global-expansion" class="read-more">+</a>
   </div>
 </div>
 

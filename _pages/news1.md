@@ -21,7 +21,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
   </div>
 
   <div class="card">
-    <img src="/assets/img/2.jpg" alt="Critical Review Services Expanded" />
+    <img src="/assets/img/wing.jpg" alt="Critical Review Services Expanded" />
     <h3>New decarbonisation pathways in LCA</h3>
     <h4>Publication - Jan 2025</h4> <!-- Subtitle -->
     <p>

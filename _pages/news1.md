@@ -7,7 +7,7 @@ nav_order: 4
 ---
 
 <h2>Latest News</h2>
-<p>Stay up to date with the latest updates and insights on Life Cycle Assessment, Critical Review, and our advisory services.</p>
+<p>Publications, conferences, talks, and more</p>
 
 <div class="news-cards">
   <div class="news-item">
@@ -50,6 +50,17 @@ nav_order: 4
     <div class="news-text">
       <h3>Net zero futures in life cycle assessment of passenger cars</h3>
       <h4>Conference Presentation - Feb 2024</h4>
+      <p>Future Propulsion Conference, Solihull, UK.</p>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-image">
+      <img src="/assets/img/banes.jpg" alt="Net Zero Futures Conference" onclick="expandImage(this)" />
+    </div>
+    <div class="news-text">
+      <h3>Pioneering net zero construction policy in Bath & North East Somerset</h3>
+      <h4>Publication - Oct 2023</h4>
       <p>Future Propulsion Conference, Solihull, UK.</p>
     </div>
   </div>

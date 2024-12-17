@@ -11,10 +11,10 @@ nav_order: 4  # Adjust this to place the page in the desired order
 
 <div class="news-cards">
   <div class="card">
-    <img src="/assets/img/1.jpg" alt="Life Cycle Assessment in Action" />
-    <h3>Life Cycle Assessment in Action</h3>
+    <img src="/assets/img/car.jpg" alt="Life Cycle Assessment in Action" />
+    <h3>Publication: Future carbon footprints of passenger cars</h3>
     <p>
-      Discover how Life Cycle Assessment is helping industries reduce their environmental impact, optimize production processes, and achieve sustainability goals.
+      Battery electric vehicles consistenly show the lowest carbon footprints among passenger cars now and in the future.
     </p>
     <a href="/news/lca-in-action" class="read-more">Read More</a>
   </div>

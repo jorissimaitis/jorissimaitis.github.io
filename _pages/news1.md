@@ -22,10 +22,10 @@ nav_order: 4  # Adjust this to place the page in the desired order
 
   <div class="card">
     <img src="/assets/img/2.jpg" alt="Critical Review Services Expanded" />
-    <h3>Expanding future scenarios in LCA using integrated assessment models</h3>
+    <h3>Expanding future decarbonisation scenarios in LCA</h3>
     <h4>Publication - Jan 2025</h4> <!-- Subtitle -->
     <p>
-      Decarbonizing global electricity reduces carbon emissions and pollution but increases resource use and land impacts. Results vary across energy models, highlighting the importance of model choice.
+      Decarbonising global electricity reduces carbon emissions and pollution but may increase resource use and land impacts.
     </p>
     <a href="/news/critical-review-expanded" class="read-more">+</a>
   </div>

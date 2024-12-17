@@ -25,7 +25,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
     <h3>Expanding future scenarios in LCA using integrated assessment models</h3>
     <h4>Publication - Jan 2025</h4> <!-- Subtitle -->
     <p>
-      Our Critical Review services now offer more comprehensive evaluations for large-scale projects, ensuring higher credibility for LCA studies.
+      Decarbonizing global electricity reduces carbon emissions and pollution but increases resource use and land impacts. Results vary across energy models, highlighting the importance of model choice.
     </p>
     <a href="/news/critical-review-expanded" class="read-more">Read More</a>
   </div>

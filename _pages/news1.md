@@ -22,7 +22,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
 
   <div class="card">
     <img src="/assets/img/2.jpg" alt="Critical Review Services Expanded" />
-    <h3>Expanding scenario diversity in prospective LCA</h3>
+    <h3>Future scenarios in LCA and the environmental footprint of decarbonising global electricity</h3>
     <h4>Publication - Jan 2025</h4> <!-- Subtitle -->
     <p>
       Our Critical Review services now offer more comprehensive evaluations for large-scale projects, ensuring higher credibility for LCA studies.

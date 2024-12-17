@@ -12,9 +12,10 @@ nav_order: 4  # Adjust this to place the page in the desired order
 <div class="news-cards">
   <div class="card">
     <img src="/assets/img/car.jpg" alt="Life Cycle Assessment in Action" />
-    <h3>Publication: Future carbon footprints of passenger cars</h3>
+    <h3>Future Carbon Footprints of Passenger Cars</h3>
+    <h4>Publication: A Look at Electric Vehicle Impact</h4> <!-- Subtitle -->
     <p>
-      Battery electric vehicles consistenly show the lowest carbon footprints among passenger cars now and in the future.
+      Battery electric vehicles consistently show the lowest carbon footprints among passenger cars now and in the future.
     </p>
     <a href="/news/lca-in-action" class="read-more">Read More</a>
   </div>
@@ -22,6 +23,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
   <div class="card">
     <img src="/assets/img/2.jpg" alt="Critical Review Services Expanded" />
     <h3>Critical Review Services Expanded</h3>
+    <h4>Enhanced Evaluations for Large-Scale Projects</h4> <!-- Subtitle -->
     <p>
       Our Critical Review services now offer more comprehensive evaluations for large-scale projects, ensuring higher credibility for LCA studies.
     </p>
@@ -31,6 +33,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
   <div class="card">
     <img src="/assets/img/3.jpg" alt="Sustainability Strategy Advisory" />
     <h3>New Advisory Offering: Sustainability Strategy</h3>
+    <h4>Helping Companies Build Actionable Plans</h4> <!-- Subtitle -->
     <p>
       We’ve launched a new advisory service to help companies build actionable sustainability strategies, from risk assessments to regulatory compliance.
     </p>
@@ -40,6 +43,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
   <div class="card">
     <img src="/assets/img/4.jpg" alt="Global Expansion" />
     <h3>Our Global Expansion</h3>
+    <h4>New Partnerships in Europe and Asia</h4> <!-- Subtitle -->
     <p>
       We are expanding our services globally with new partnerships in Europe and Asia, furthering our mission to help businesses worldwide achieve sustainability.
     </p>
@@ -77,6 +81,13 @@ nav_order: 4  # Adjust this to place the page in the desired order
     font-size: 1.2rem;
     margin: 10px 0;
     color: #b8860b; /* Gold color for headings */
+  }
+
+  .card h4 {
+    font-size: 1rem;
+    margin: 5px 0 10px 0;
+    color: #666; /* Neutral text for subtitles */
+    font-style: italic;
   }
 
   .card p {

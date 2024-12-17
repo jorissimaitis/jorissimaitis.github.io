@@ -75,6 +75,18 @@ nav_order: 4
       <p>11th International Conference on Industrial Ecology, Leiden, Netherlands.</p>
     </div>
   </div>
+
+  <div class="news-item">
+    <div class="news-image">
+      <img src="/assets/img/battery.jpg" alt="Net Zero Futures Conference" onclick="expandImage(this)" />
+    </div>
+    <div class="news-text">
+      <h3>Are future recycling benefits misleading? Prospective life cycle assessment of lithium‐ion batteries.</h3>
+      <h4>Publication - June 2023</h4>
+      <p>11th International Conference on Industrial Ecology, Leiden, Netherlands.</p>
+    </div>
+  </div>
+
 </div>
 
 <!-- Optional JavaScript for Image Expansion -->

@@ -84,13 +84,20 @@ nav_order: 4
     gap: 20px; /* Space between image and text */
   }
 
-  /* Image styling */
   .news-image img {
-    width: 100%;
-    max-width: 300px; /* Set consistent width */
-    aspect-ratio: 3 / 2; /* Enforces a 3:2 landscape ratio */
-    object-fit: cover; /* Crops images to fit the ratio */
-    cursor: pointer;
+      width: 100%;
+      max-width: 300px; /* Set consistent width */
+      aspect-ratio: 3 / 2; /* Enforces a 3:2 landscape ratio */
+      object-fit: cover; /* Crops images to fit the ratio */
+      cursor: pointer;
+      border-radius: 8px; /* Slightly rounded corners */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Small shadow */
+      transition: box-shadow 0.3s ease, transform 0.3s ease; /* Smooth transition */
+  }
+
+  .news-image img:hover {
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Deeper shadow on hover */
+      transform: translateY(-2px); /* Slight lift effect on hover */
   }
 
   /* Text content styling */

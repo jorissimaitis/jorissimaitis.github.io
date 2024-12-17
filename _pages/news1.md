@@ -13,7 +13,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
   <div class="card">
     <img src="/assets/img/car.jpg" alt="Life Cycle Assessment in Action" />
     <h3>Future carbon footprints of passenger cars</h3>
-    <h4>Publication</h4> <!-- Subtitle -->
+    <h4>Publication - Feb 2025</h4> <!-- Subtitle -->
     <p>
       Battery electric vehicles consistently show the lowest carbon footprints among passenger cars now and in the future.
     </p>
@@ -22,8 +22,8 @@ nav_order: 4  # Adjust this to place the page in the desired order
 
   <div class="card">
     <img src="/assets/img/2.jpg" alt="Critical Review Services Expanded" />
-    <h3>Critical Review Services Expanded</h3>
-    <h4>Enhanced Evaluations for Large-Scale Projects</h4> <!-- Subtitle -->
+    <h3>Expanding scenario diversity in prospective LCA</h3>
+    <h4>Publication - Jan 2025</h4> <!-- Subtitle -->
     <p>
       Our Critical Review services now offer more comprehensive evaluations for large-scale projects, ensuring higher credibility for LCA studies.
     </p>

@@ -35,17 +35,17 @@ nav_order: 4  # Adjust this to place the page in the desired order
     <h3>Future carbon footprints of passenger cars</h3>
     <h4>Conference Presentation - Oct 2024</h4> <!-- Subtitle -->
     <p>
-      SETAC Europe 26th LCA Symposium.
+      SETAC Europe 26th LCA Symposium, Gothenburg, Sweden.
     </p>
     <a href="/news/sustainability-strategy" class="read-more">+</a>
   </div>
 
   <div class="card">
-    <img src="/assets/img/4.jpg" alt="Global Expansion" />
-    <h3>Our Global Expansion</h3>
-    <h4>New Partnerships in Europe and Asia</h4> <!-- Subtitle -->
+    <img src="/assets/img/fpc.jpg" alt="Global Expansion" />
+    <h3>Net zero futures in life cycle assessment of passenger cars</h3>
+    <h4>Conference Presentation - Feb 2024</h4> <!-- Subtitle -->
     <p>
-      We are expanding our services globally with new partnerships in Europe and Asia, furthering our mission to help businesses worldwide achieve sustainability.
+      Future Propulsion Conference, Solihull, UK.
     </p>
     <a href="/news/global-expansion" class="read-more">+</a>
   </div>

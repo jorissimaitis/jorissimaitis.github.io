@@ -12,8 +12,8 @@ nav_order: 4  # Adjust this to place the page in the desired order
 <div class="news-cards">
   <div class="card">
     <img src="/assets/img/car.jpg" alt="Life Cycle Assessment in Action" />
-    <h3>Future Carbon Footprints of Passenger Cars</h3>
-    <h4>Publication: A Look at Electric Vehicle Impact</h4> <!-- Subtitle -->
+    <h3>Future carbon footprints of passenger cars</h3>
+    <h4>Publication</h4> <!-- Subtitle -->
     <p>
       Battery electric vehicles consistently show the lowest carbon footprints among passenger cars now and in the future.
     </p>
@@ -66,7 +66,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
     overflow: hidden;
-    text-align: left;
+    text-align: centre;
     transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover animation */
   }
 

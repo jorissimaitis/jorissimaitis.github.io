@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /news/
-title: News
+title: Communications
 nav: true
 nav_order: 4
 ---

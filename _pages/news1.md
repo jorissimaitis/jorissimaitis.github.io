@@ -66,7 +66,7 @@ nav_order: 4  # Adjust this to place the page in the desired order
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
     overflow: hidden;
-    text-align: centre;
+    text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover animation */
   }
 

@@ -37,7 +37,7 @@ nav_order: 4
       <img src="/assets/img/setac.jpg" alt="SETAC Conference" onclick="expandImage(this)" />
     </div>
     <div class="news-text">
-      <h3>Future carbon footprints of passenger cars</h3>
+      <h3>How do future scenario impact environmental outcomes?</h3>
       <h4>Conference Presentation - Oct 2024</h4>
       <p>SETAC Europe 26th LCA Symposium, Gothenburg, Sweden.</p>
     </div>
@@ -84,6 +84,17 @@ nav_order: 4
       <h3>Are future recycling benefits misleading? Prospective life cycle assessment of lithium‐ion batteries.</h3>
       <h4>Publication - June 2023</h4>
       <p>11th International Conference on Industrial Ecology, Leiden, Netherlands.</p>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-image">
+      <img src="/assets/img/iet.jpg" alt="Net Zero Futures Conference" onclick="expandImage(this)" />
+    </div>
+    <div class="news-text">
+      <h3>Are electric vehicles as green as we think?</h3>
+      <h4>Key note lecture - November 2022</h4>
+      <p>Institute of Engineering and Technology, Bath, UK.</p>
     </div>
   </div>
 

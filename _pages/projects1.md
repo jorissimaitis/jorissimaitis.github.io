@@ -3,7 +3,7 @@ layout: default
 permalink: /projects/
 title: Projects
 nav: true
-nav_order: 2  # Adjust this to place the page in the desired order
+nav_order: 3  # Adjust this to place the page in the desired order
 ---
 
 <style>
@@ -103,7 +103,7 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="project-details">
       <h3>Feb 2025 - Present </h3>
       <p>
-        At present, I am a Senior Sustainability Consultant at Minviro. I work with a specialist team to deliver data-driven, sustainability solutions to world-leading organisations. This primarily focusses on LCA for the raw materials and energy sector. We also develop comprehensive databases, tools, innovation, and research. I have delivered several ISO-compliant LCAs, critical reviews, and innovation advisory.
+        At present, I am a Senior Sustainability Consultant at Minviro. I work with a specialist team to deliver data-driven, sustainability solutions to world-leading organisations. This primarily focuses on delivering ISO-compliant LCA for raw materials and energy technologies, but I also contribute to innovation in databases, tools, and research.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project1')">-</a>
     </div>
@@ -114,13 +114,13 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <img src="/assets/img/p_bath.png" alt="Critical Review">
     <div class="card-content">
       <h3>Prospective LCA</h3>
-      <p>Advancing research into future-oriented methods for energy and transport technologies.</p>
+      <p>Advancing research into the future impacts of energy and transport technologies.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project2')">+</a>
     </div>
     <div class="project-details">
       <h3>Sep 2021- Jan 2025 </h3>
       <p>
-        I completed my PhD at the University of Bath, collaborating with University College London and Paul Scherrer Institut. We developed LCA methods to project the future environmental impacts of batteries, energy systems, and electric vehicles, publishing articles in world-class journals and renowned international conferences.
+        My PhD research focussed on advancing “prospective” LCA methods to project the future environmental impacts of batteries, energy systems, and electric vehicles. I’ve publishing articles in world-class journals and renowned international conferences, and facilitated collaborations with University College London and Paul Scherrer Institut. 
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project2')">-</a>
     </div>
@@ -137,7 +137,7 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="project-details">
       <h3>Jan 2024 - May 2024</h3>
       <p>
-        I worked as a consultant of Benchmark Mineral Intelligence with their sustainability division to deliver an LCA for a global battery manufacturer in anticipation of upcoming EU batteries regulation.
+        I consulted for Benchmark Mineral Intelligence, working with their sustainability division to an LCA to a global battery manufacturer in anticipation of upcoming EU batteries regulation.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project3')">-</a>
     </div>
@@ -148,13 +148,13 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <img src="/assets/img/p_pathways.png" alt="Project 4">
     <div class="card-content">
       <h3>Software Advisory</h3>
-      <p>Decarbonising construction by LCA automation and environmental product declarations</p>
+      <p>Decarbonising construction by LCA automation and environmental product declarations.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project4')">+</a>
     </div>
     <div class="project-details">
       <h3>Jan 2024 - Aug 2025</h3>
       <p>
-        I helped advise the development of a start-up Pathways on LCA principles and methodology, for deploying an automated and integrated software for construction product impacts and environmental product declaration generation.
+        I advised a start-up - Pathways - on key LCA principles and methodology, to help deploy an automated and integrated software for construction product impacts and environmental product declaration generation.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project4')">-</a>
     </div>
@@ -165,7 +165,7 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <img src="/assets/img/p_ccc.png" alt="Project 5">
     <div class="card-content">
       <h3>UK's Seventh Carbon Budget</h3>
-      <p>Advising the UK government on industry and waste greenhouse gas emissions</p>
+      <p>Advising the UK government on industry and waste greenhouse gas emissions.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project5')">+</a>
     </div>
     <div class="project-details">
@@ -182,7 +182,7 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <img src="/assets/img/p_anthesis.png" alt="Project 6">
     <div class="card-content">
       <h3>Critical Review of Packaging</h3>
-      <p>Panel reviewer of Anthesis for consumer goods packaging products</p>
+      <p>Panel reviewer of Anthesis for consumer goods packaging products.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project6')">+</a>
     </div>
     <div class="project-details">
@@ -216,7 +216,7 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <img src="/assets/img/p_carbongraph.png" alt="Project 8">
     <div class="card-content">
       <h3>Software Advisory</h3>
-      <p>Accessible LCA using AI</p>
+      <p>Making LCA accessible using AI.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project8')">+</a>
     </div>
     <div class="project-details">
@@ -233,13 +233,13 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <img src="/assets/img/p_banes.png" alt="Project 9">
     <div class="card-content">
       <h3>Zero Carbon Construction Policy</h3>
-      <p>Local policy investigation into decarbonising construction</p>
+      <p>Local policy investigation into decarbonising construction.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project9')">+</a>
     </div>
     <div class="project-details">
       <h3>Jan 2023 - Sep 2023</h3>
       <p>
-        I worked as a leading researcher with University of Bath team to investigate the effectiveness of zero carbon construction policy for the Bath & Northeast Somerset Council.
+        I led research with the University of Bath team to investigate the effectiveness of zero carbon construction policy for the Bath & Northeast Somerset Council.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project9')">-</a>
     </div>
@@ -256,7 +256,7 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <div class="project-details">
       <h3>May 2024 - Sept 2024</h3>
       <p>
-      For consultancy project with Razbio, I developed a simple and accessible sheet-based LCA tool to estimate the carbon footprint of organic broccoli production vs. commercial methods.
+      For q consultancy project with Razbio, I developed a simple and accessible sheet-based LCA tool to estimate the carbon footprint of organic broccoli production vs. commercial methods.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project10')">-</a>
     </div>
@@ -284,13 +284,13 @@ nav_order: 2  # Adjust this to place the page in the desired order
     <img src="/assets/img/p_nursem.png" alt="Skincare Products">
     <div class="card-content">
       <h3>Skincare Products</h3>
-      <p>LCA of medical skincare products and circular economy strategies</p>
+      <p>LCA of medical skincare products and circular economy strategies.</p>
       <a href="javascript:void(0);" onclick="toggleDetails('project12')">+</a>
     </div>
     <div class="project-details">
       <h3>Jan 2022 - Jun 2022</h3>
       <p>
-        In consultation with Nursem, I delivered a cradle-to-gave ISO-based LCA of several skin care products including scenarios for circular economy strategies such as refill and reuse packaging.
+        In consultation with Nursem, I delivered a cradle-to-grave LCA of several skin care products including scenarios for circular economy strategies such as refill and reuse packaging.
       </p>
       <a href="javascript:void(0);" onclick="toggleDetails('project12')">-</a>
     </div>

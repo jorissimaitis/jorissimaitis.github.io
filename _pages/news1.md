@@ -10,25 +10,15 @@ nav_order: 4
 <p>Publications, conferences, talks, and more</p>
 
 <div class="news-cards">
-  <div class="news-item">
-    <div class="news-image">
-      <img src="/assets/img/car.jpg" alt="Life Cycle Assessment in Action" onclick="expandImage(this)" />
-    </div>
-    <div class="news-text">
-      <h3>Future carbon footprints of passenger cars</h3>
-      <h4>Publication - Feb 2025</h4>
-      <p>Battery electric vehicles consistently show the lowest carbon footprints among passenger cars now and in the future.</p>
-    </div>
-  </div>
 
   <div class="news-item">
     <div class="news-image">
       <img src="/assets/img/wind.jpg" alt="New decarbonisation pathways in LCA" onclick="expandImage(this)" />
     </div>
     <div class="news-text">
-      <h3>New decarbonisation pathways in LCA</h3>
+      <h3>Introducing global decarbonisation pathways to LCA</h3>
       <h4>Publication - Jan 2025</h4>
-      <p>Decarbonising global electricity reduces carbon emissions and pollution but may increase resource use and land impacts.</p>
+      <p>We published a study in Renewable and Sustainable Energy Reviews (IF 16.8). Future decarbonisation scenarios from an integrated assessment model – TIAM-UCL – are introduced into Premise, a software helping to conduct prospective LCA (pLCA). The study conducts a pLCA on scenarios decarbonising the global electricity supply, finding several environmental co-benefits and trade-offs. Full link: https://doi.org/10.1016/j.rser.2024.115298</p>
     </div>
   </div>
 
@@ -37,9 +27,9 @@ nav_order: 4
       <img src="/assets/img/setac.jpg" alt="SETAC Conference" onclick="expandImage(this)" />
     </div>
     <div class="news-text">
-      <h3>How do future scenario impact environmental outcomes?</h3>
+      <h3>Future carbon footprints of passenger cars</h3>
       <h4>Conference Presentation - Oct 2024</h4>
-      <p>SETAC Europe 26th LCA Symposium, Gothenburg, Sweden.</p>
+      <p>I presented research from an upcoming study at SETAC Europe 26th LCA Symposium, Gothenburg, Sweden. Early findings reveal that across many types of passenger cars, battery electric vehicles consistently deliver the lowest carbon footprints, now and in the future. This is because projected electricity decarbonisation significantly outweighs the decarbonisation of alternatives such as liquid fuels and hydrogen.</p>
     </div>
   </div>
 
@@ -50,7 +40,8 @@ nav_order: 4
     <div class="news-text">
       <h3>EU batteries carbon footprint methodology</h3>
       <h4>Public feedback - April 2024</h4>
-      <p>SETAC Europe 26th LCA Symposium, Gothenburg, Sweden.</p>
+      <p> I provided feedback on the EU battery carbon footprint methodology, recommending clearer guidelines, standardized reporting, and improved lifecycle assessment processes. It highlights issues with data sources, energy use, recycling assumptions, and potential policy impacts on battery manufacturing and sustainability. Full link: https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/13877-Batteries-for-electric-vehicles-carbon-footprint-methodology/F3466688_en
+</p>
     </div>
   </div>
 
@@ -61,7 +52,7 @@ nav_order: 4
     <div class="news-text">
       <h3>Net zero futures in life cycle assessment of passenger cars</h3>
       <h4>Conference Presentation - Feb 2024</h4>
-      <p>Future Propulsion Conference, Solihull, UK.</p>
+      <p>I presented research from an upcoming study at the Future Propulsion Conference, Solihull, UK. Initial results indicate that among various passenger car types, battery electric vehicles (BEVs) consistently exhibit the smallest carbon footprint in current and future systems. This advantage stems from the expected shift towards cleaner electricity, which outpaces emission reductions in hydrogen and liquid fuel alternatives.</p>
     </div>
   </div>
 
@@ -72,7 +63,7 @@ nav_order: 4
     <div class="news-text">
       <h3>Pioneering net zero construction policy in Bath & North East Somerset</h3>
       <h4>Publication - Oct 2023</h4>
-      <p>Future Propulsion Conference, Solihull, UK.</p>
+      <p>We published a report that examines the impact of local net-zero construction policy on industry. Findings show mixed compliance, challenges in renewable energy integration, cost concerns, and the need for clearer guidance. The study highlights lessons for future sustainable construction policies. Full link: 10.15125/BATHRO-297388880</p>
     </div>
   </div>
 
@@ -83,7 +74,7 @@ nav_order: 4
     <div class="news-text">
       <h3>Future environmental impacts of passenger vehicles</h3>
       <h4>Conference Presentation - Jul 2023</h4>
-      <p>11th International Conference on Industrial Ecology, Leiden, Netherlands.</p>
+      <p>I presented early research results at the 11th International Conference on Industrial Ecology, Leiden, Netherlands. This focussed on showing novel prospective LCA methods for passenger cars that time-adjusted for various future scenarios in energy development.</p>
     </div>
   </div>
 
@@ -94,7 +85,7 @@ nav_order: 4
     <div class="news-text">
       <h3>Are future recycling benefits misleading? Prospective life cycle assessment of lithium‐ion batteries.</h3>
       <h4>Publication - June 2023</h4>
-      <p>11th International Conference on Industrial Ecology, Leiden, Netherlands.</p>
+      <p>We published a research article in the Journal of Industrial Ecology (IF 7.0). A prospective LCA considered future electricity scenarios to assess current and future carbon footprints of lithium-ion battery production and recycling. A key finding was that future recycling benefits can overestimated, highlighting that decarbonizing production is most crucial for reducing environmental impacts. Full link: https://doi.org/10.1111/jiec.13413 </p>
     </div>
   </div>
 
@@ -105,7 +96,7 @@ nav_order: 4
     <div class="news-text">
       <h3>Are electric vehicles as green as we think?</h3>
       <h4>Key note lecture - November 2022</h4>
-      <p>Institute of Engineering and Technology, Bath, UK.</p>
+      <p>I was invited to give a key note lecture by the Institute of Engineering and Technology, Bath, UK, on the sustainability of electric vehicles. The full lecture can be found here: https://www.youtube.com/watch?v=OT3wfBBoMAU&t=871s</p>
     </div>
   </div>
 

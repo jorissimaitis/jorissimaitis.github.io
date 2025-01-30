@@ -3,7 +3,7 @@ layout: default
 permalink: /about/
 title: About
 nav: true
-nav_order: 3  # Adjust this to place the page in the desired order
+nav_order: 1  # Adjust this to place the page in the desired order
 ---
 
 <div class="about-container">
@@ -11,13 +11,13 @@ nav_order: 3  # Adjust this to place the page in the desired order
     <img src="/assets/img/about_me.jpg" alt="Your Name" />
   </div>
   <div class="about-text">
-    <p>My ambition is to help realise an environmentally sustainable, socially just, and economically thriving society. I was introduced to life cycle assessment (LCA) in 2020 during my MSc at UCL and I believe LCA is a powerful tool to measure environmental impacts and form tangible sustainability strategies.</p>
+    <p>My ambition is to realise a society that is environmentally sustainable, socially just, and economically thriving. I was introduced to life cycle assessment (LCA) in 2020 during my MSc at UCL and realised its power in measuring environmental impacts and forming tangible sustainability strategies.</p>
 
-    <p>I have over 5 years of experience conducting LCA, carbon, and sustainability projects. Currently, I’m a Senior Sustainability Consultant at Minviro, partnering with global companies to build sustainable supply chains for raw materials and energy technologies. I also provide independent consulting on LCA, critical reviews, and advisory, being an accredited practitioner of the Institute of Environmental Management (PIEMA) and Society for the Environment (REnvP).</p>
+    <p>I’ve now spent over 5 years conducting LCA, delivering independent consulting, critical reviews, and advisory services across many sectors. Moreover, I became an accredited practitioner by the Institute of Environmental Management (PIEMA) and Society for the Environment (REnvP). Currently, I am a Senior Sustainability Consultant at Minviro, partnering with global companies to build sustainable supply chains for raw materials and energy technologies.</p>
 
-    <p>With a PhD from the University of Bath, my research on LCA for future transport and energy systems has been published in leading journals and presented internationally. I’ve also contributed to policy initiatives, including the UK’s Seventh Carbon Budget with the Climate Change Committee and the Zero Carbon Construction Policy for Bath & Northeast Somerset.</p>
+    <p>During my PhD at the University of Bath, I published several research articles on LCA for transport and energy systems. I’ve also contributed to policy initiatives, including the UK’s Seventh Carbon Budget with the Climate Change Committee and the Zero Carbon Construction Policy for Bath & Northeast Somerset.</p>
 
-    <p>In my spare time, I love sports, trekking, outdoors, mindfulness, and following a plant-based lifestyle. My personal achievements is having completed the Everest Base Camp trek, an Iron Man, a 50k ultramarathon, and even having started a non-profit organisation in media representation for charities.</p>
+    <p>In my spare time, I love sports, trekking, outdoors, mindfulness, and following a plant-based lifestyle. My personal achievements are having completed the Everest Base Camp trek, an Iron Man, a 50k ultramarathon, and even having started a non-profit organisation in media representation for charities.</p>
 
     <p>Below is a list of some career highlights.</p>
   </div>

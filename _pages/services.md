@@ -3,7 +3,7 @@ layout: default
 permalink: /services/
 title: Services
 nav: true
-nav_order: 1  # Adjust this to place the page in the desired order
+nav_order: 2  # Adjust this to place the page in the desired order
 ---
 
 <style>
@@ -138,9 +138,4 @@ nav_order: 1  # Adjust this to place the page in the desired order
     <h2>Advisory</h2>
     <p>I provide expert guidance on LCA and sustainability, offering support from initial steps to ongoing assistance after implementation. This applies not only to product and service sustainability but also to organization-wide strategies tailored to your business needs and software development.</p>
   </div>
-</div>
-
-<!-- Get in Touch Button -->
-<div class="get-in-touch">
-  <a href="/contact/">Get in Touch</a>
 </div>

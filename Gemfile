@@ -21,8 +21,8 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
 
-    # Use terser for JS minification instead of jekyll-uglifier
-    gem 'terser', '~> 5.0'
+    # Use terser 1.x.x for JS minification
+    gem 'terser', '~> 1.0'
 end
 
 group :other_plugins do

@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
@@ -9,7 +10,6 @@ group :jekyll_plugins do
     gem 'jekyll-imagemagick'
     gem 'jekyll-jupyter-notebook'
     gem 'jekyll-link-attributes'
-    gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-regex-replace'
     gem 'jekyll-scholar'
@@ -20,7 +20,12 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
+
+    # Add these for JS minification
+    gem 'jekyll-uglifier', '~> 2.0'
+    gem 'terser', '~> 5.0'
 end
+
 group :other_plugins do
     gem 'css_parser'
     gem 'feedjira'

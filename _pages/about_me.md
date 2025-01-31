@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /about/
-title: About
+title: bout
 nav: true
 nav_order: 1  # Adjust this to place the page in the desired order
 ---

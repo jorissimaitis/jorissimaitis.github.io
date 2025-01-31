@@ -20,6 +20,7 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'jekyll-minifier'
 
     # Use terser 1.x.x for JS minification
     gem 'terser', '~> 1.0'
